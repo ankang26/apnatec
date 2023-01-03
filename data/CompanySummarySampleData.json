@@ -1,0 +1,23 @@
+[
+  {
+    "Symbol":"APPL",
+    "Last Earning Date":"22-10-2023",
+    "Next Earning Date":"24-01-2023",
+    "Gain Since Earning Report":"-20%",
+    "Index Gain":"-10%"
+  },
+  {
+    "Symbol":"MSFT",
+    "Last Earning Date":"24-10-2023",
+    "Next Earning Date":"NA",
+    "Gain Since Earning Report":"15%",
+    "Index Gain":"-10%" 
+  },
+  {
+    "Symbol":"FIGS",
+    "Last Earning Date":"NA",
+    "Next Earning Date":"NA",
+    "Gain Since Earning Report":"NA",
+    "Index Gain":"NA" 
+  }
+]
