@@ -1023,8 +1023,8 @@ NET_2023-04-27_EP_YH	 Achieved operating cash flow of $36.4 million, or 13% of t
 NET_2023-04-27_EP_YH	 SAN FRANCISCO, April 27, 2023--(BUSINESS WIRE)--Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced financial results for its first quarter ended March 31, 2023.	 SAN FRANCISCO, April 27, 2023--(BUSINESS WIRE)--Cloudflare, Inc. (NYSE: NET), the security, performance, and reliability company helping to build a better Internet, today announced financial results for its first quarter ended March 31, 2023.
 NET_2023-04-27_EP_YH	 First Quarter Fiscal 2023 Financial Highlights.	 First Quarter Fiscal 2023 Financial Highlights.
 NET_2023-04-27_EP_YH	 Revenue : Total revenue of $290.2 million, representing an increase of 37% year-over-year.	 Total revenue is $290.2 million.
-NET_2023-04-27_EP_YH	 Gross Profit : GAAP gross profit was $219.7 million, or 75.7% gross margin, compared to $165.1 million, or 77.8%, in the first quarter of 2022.	 GAAP gross profit is $219.7 million, and gross margin is 75.7%.
-NET_2023-04-27_EP_YH	Non-GAAP gross profit was $225.9 million, or 77.8% gross margin, compared to $166.9 million, or 78.7%, in the first quarter of 2022.	Non-GAAP gross profit is $225.9 million and gross margin is 77.8%.
+NET_2023-04-27_EP_YH	 Gross Profit : GAAP gross profit was $219.7 million, or 75.7% gross margin, compared to $165.1 million, or 77.8%, in the first quarter of 2022.	 GAAP gross profit is $219.7 million, and GAAP gross margin is 75.7%.
+NET_2023-04-27_EP_YH	Non-GAAP gross profit was $225.9 million, or 77.8% gross margin, compared to $166.9 million, or 78.7%, in the first quarter of 2022.	Non-GAAP gross profit is $225.9 million and non-GAAP gross margin is 77.8%.
 NET_2023-04-27_EP_YH	 Operating Income (Loss) : GAAP loss from operations was $47.3 million, or 16.3% of total revenue, compared to $40.0 million, or 18.9% of total revenue, in the first quarter of 2022.	 GAAP loss from operations is $47.3 million.
 NET_2023-04-27_EP_YH	Non-GAAP income from operations was $19.4 million, or 6.7% of total revenue, compared to $4.9 million, or 2.3% of total revenue, in the first quarter of 2022.	Non-GAAP income from operations is $19.4 million.
 NET_2023-04-27_EP_YH	 Net Income (Loss) : GAAP net loss was $38.1 million, compared to $41.4 million in the first quarter of 2022.	 GAAP net loss is $38.1 million.
@@ -1186,6 +1186,151 @@ DOCN_2022-08-08_EP_YH	These customers had an NDR of 113% and represented 85% of 
 DOCN_2022-08-08_EP_YH	Gross profit of $97.6 million or 64% of revenue, an increase of 300 basis points year-over-year, and adjusted gross profit of $121.5 million or 80% of revenue.	Gross profit is $97.6 million and adjusted gross profit is $121.5 million.
 DOCN_2022-08-08_EP_YH	Revenue Grew 30% with $36 million of Operating Cash Flow and $26 million of Adjusted Free Cash Flow.	Operating Cash Flow is $36 million and Adjusted Free Cash Flow is $26 million.
 DOCN_2022-08-08_EP_YH	Builders and Scalers, those customers spending more than $50 per month, increased 43% from the first quarter 2022 and their revenue grew 32% year-over-year.	Customers spending more than $50 per month, increases 43%.
+APPN_2022-11-03_EP_YH	Total revenue is expected to be between $115.0 million and $117.0 million, representing a year-over-year increase of 24% to 27%.	Total revenue is expected to be between $115.0 million and $117.0 million.
+APPN_2022-11-03_EP_YH	Cloud subscription revenue is expected to be between $236.0 million and $238.0 million, representing year-over-year growth of 32% to 33%.	Cloud subscription revenue is expected to be between $236.0 million and $238.0 million.
+APPN_2022-11-03_EP_YH	Cloud subscription revenue is expected to be between $63.5 million and $64.5 million, representing year-over-year growth of 24% to 26%.	Cloud subscription revenue is expected to be between $63.5 million and $64.5 million.
+APPN_2022-11-03_EP_YH	Cloud subscription revenue is expected to be between $67.0 million and $69.0 million, representing year-over-year growth of 26% to 29%.	Cloud subscription revenue is expected to be between $67.0 million and $69.0 million.
+APPN_2022-11-03_EP_YH	Cloud subscription revenue is expected to be between $294.0 million and $296.0 million, representing year-over-year growth of 24% to 25%.	Cloud subscription revenue is expected to be between $294.0 million and $296.0 million.
+APPN_2022-11-03_EP_YH	Total subscriptions revenue, which includes sales of our cloud subscriptions, on-premises term license subscriptions, and maintenance and support, increased 18% year-over-year to $99.0 million.	Total subscriptions revenue is $99.0 million.
+APPN_2022-11-03_EP_YH	Cloud subscription revenue is expected to be between $72.0 million and $74.0 million, representing year-over-year growth of 26% to 30%.	Cloud subscription revenue is expected to be between $72.0 million and $74.0 million.
+CFLT_2023-01-30_EP_YH	; fiscal year 2022 revenue of $586 million, up 51% year over year.	full year 2022 revenue of $586 million, up 51% year over year.
+CFLT_2023-01-30_EP_YH	1,075 customers with $100,000 or greater in ARR, up 34% year over year (1).	1,075 customers with $100,000 or greater in ARR.
+CRWD_2023-05-31_EP_YH	Ending ARR grows 42% year-over-year to reach $2.73 billion, adding $174 million in net new ARR.	Ending ARR is $2.73 billion and net new ARR is $174 million.
+CRWD_2023-05-31_EP_YH	Non-GAAP Net Income Per Share Attributable To Crowdstrike Common Stockholders, Diluted in Full Year Fy24guidance is $2.32 - $2.43 .	Non-GAAP Net Income Per Share Diluted in Full Year is expected to be between $2.32 and $2.43 .
+DDOG_2022-08-04_EP_YH	Strong growth of larger customers, with about 2,420 $100k+ ARR customers, up from 1,570 a year ago.	About 2,420 $100k+ ARR customers.
+DDOG_2022-08-04_EP_YH	Strong growth of larger customers, with about 2,600 $100k+ ARR customers, up from about 1,800 a year ago.	About 2,600 $100k+ ARR customers.
+DDOG_2022-08-04_EP_YH	As of September 30, 2022 , we had about 2,600 customers with ARR of $100,000 or more, an increase of 44% from about 1,800 as of September 30, 2021 .	As of September 30, 2022 , customers with ARR of $100,000 or more are 2,600.
+DDOG_2022-08-04_EP_YH	As of December 31, 2022 , we had about 2,780 customers with ARR of $100,000 or more, an increase of 38% from 2,010 as of December 31, 2021 .	As of December 31, 2022 , customers with ARR of $100,000 or more are 2,780 .
+DOCN_2022-08-08_EP_YH	Gross profit of $86.6 million or 65% of revenue, an increase of 700 basis points year-over-year, and adjusted gross profit of $109.7 million or 82% of revenue.	Gross profit is $86.6 million and adjusted gross profit is $109.7 million.
+DOCN_2022-08-08_EP_YH	Revenue Grew 30% with $36 million of Operating Cash Flow and $26 million of Adjusted Free Cash Flow.	Revenue Grew 30% and Operating Cash Flow is $36 million and Adjusted Free Cash Flow is $26 million.
+DOCU_2022-12-08_EP_YH	Total revenue $2,493MN   $2,497MN  .	Total revenue is expected to be between $2,493MN  and $2,497MN  .
+DOCU_2022-12-08_EP_YH	Subscription revenue $2,423MN   $2,427MN  .	Subscription revenue is expected to be between $2,423MN and   $2,427MN  .
+DOCU_2022-12-08_EP_YH	Billings $2,726MN   $2,736MN  .	Billings is expected to be between $2,726MN and $2,736MN  .
+DOCU_2022-12-08_EP_YH	Non-GAAP operating margin 18%  20% .	Non-GAAP operating margin is expected to be between 18% and 20% .
+DOCU_2022-12-08_EP_YH	Total revenue $2,695MN   $2,707MN  .	Total revenue is expected to be between $2,695MN  and $2,707MN  .
+DOCU_2022-12-08_EP_YH	Subscription revenue $2,633MN   $2,645MN  .	Subscription revenue is expected to be between $2,633MN and $2,645MN  .
+DOCU_2022-12-08_EP_YH	Total revenue $2,713MN   $2,725MN  .	Total revenue is expected to be between $2,713MN and $2,725MN  .
+DOCU_2022-12-08_EP_YH	Subscription revenue $2,640MN  $2,652MN  .	Subscription revenue is expected to be between $2,640MN and$2,652MN  .
+FIVN_2022-11-07_EP_YH	37% Growth in LTM Enterprise Subscription Revenue.	LTM Enterprise Subscription Revenue is up 37%.
+FIVN_2022-11-07_EP_YH	Record Operating and Free Cash Flow.	Record Operating and Free Cash Flow.
+FIVN_2022-11-07_EP_YH	44% Growth in 2022 International Revenue.	International Revenue is up 44% in 2022 Full Year.
+FIVN_2022-11-07_EP_YH	31% Growth in LTM Enterprise Subscription Revenue.	LTM Enterprise Subscription Revenue is up 31%.
+FIVN_2022-11-07_EP_YH	GAAP net loss for the first quarter of 2023 was $(27.2) million, or $(0.38) per basic share, and (12.5)% of revenue, compared to GAAP net loss of $(34.1) million, or $(0.49) per basic share, and (18.7)% of revenue, for the first quarter 2022.	GAAP net loss for the first quarter of 2023 is $(27.2) million, or $(0.38) per basic share.
+HUBS_2022-08-04_EP_YH	Unfavorable foreign exchange rates are expected to be an 8 point headwind to third quarter 2022 revenue growth. (	Invalid Sentence.
+HUBS_2022-08-04_EP_YH	This assumes approximately 51.2 million weighted average diluted shares outstanding.	This assumes approximately 51.2 million weighted average diluted shares outstanding.
+HUBS_2022-08-04_EP_YH	Unfavorable foreign exchange rates are expected to be a 6 point headwind to full year 2022 revenue growth (1).	Invalid Sentence.
+HUBS_2022-08-04_EP_YH	This assumes approximately 51.1 million weighted average diluted shares outstanding.	This assumes approximately 51.1 million weighted average diluted shares outstanding.
+HUBS_2022-08-04_EP_YH	Non-GAAP net income was $56.8 million, or $1.17 per basic and $1.11 per diluted share, compared to $29.6 million, or $0.63 per basic and $0.58 per diluted share in Q4'21.	Non-GAAP net income is $56.8 million, or $1.17 per basic and $1.11 per diluted share.
+HUBS_2022-08-04_EP_YH	During the fourth quarter, the company generated $70.9 million of free cash flow, compared to $78.3 million during Q4'21.	During the fourth quarter, free cash flow is $70.9 million.
+HUBS_2022-08-04_EP_YH	The company generated $191.4 million of free cash flow during 2022, compared to $203.3 million during 2021.	Free cash flow is $191.4 million during Full Year 2022.
+HUBS_2022-08-04_EP_YH	Non-GAAP operating income is expected to be in the range of $248.0 million to $252.0 million (2) .	Non-GAAP operating income is expected to be between $248.0 million to $252.0 million.
+MDB_2022-08-31_EP_YH	Continued Strong Customer Growth with Over 37,000 Customers as of July 31, 2022.	Customer are 37,000 as of July 31, 2022.
+MDB_2022-08-31_EP_YH	Subscription revenue was $291.6 million , an increase of 52% year-over-year, and services revenue was $12.1 million , an increase of 64% year-over-year.	Subscription revenue is $291.6 million, and services revenue is $12.1 million.
+MDB_2022-08-31_EP_YH	Revenue in Third Quarter Fiscal 2023 is $300.0 million to  $303.0 million  .	Revenue in Third Quarter Fiscal 2023 is expected to be between $300.0 million and  $303.0 million  .
+MDB_2022-08-31_EP_YH	Revenue in Full Year Fiscal 2023 is $1196.0 million to  $1206.0 million  .	Revenue in Full Year Fiscal 2023 is expected to be between $1196.0 million and  $1206.0 million  .
+MDB_2022-08-31_EP_YH	Non-GAAP Loss From Operations in Third Quarter Fiscal 2023 is ($10.0) million to  ($8.0) million  .	Non-GAAP Loss From Operations in Third Quarter Fiscal 2023 is expected to be between ($10.0) million and  ($8.0) million  .
+MDB_2022-08-31_EP_YH	Non-GAAP Loss From Operations in Full Year Fiscal 2023 is ($13.0) million to  ($8.0) million  .	Non-GAAP Loss From Operations in Full Year Fiscal 2023 is expected to be between ($13.0) million and  ($8.0) million  .
+MDB_2022-08-31_EP_YH	Continued Strong Customer Growth with Over 40,800 Customers as of January 31, 2023.	Customers are 40,800 as of January 31, 2023.
+MDB_2022-08-31_EP_YH	Revenue: Total revenue was $361.3 million for the fourth quarter of fiscal 2023, an increase of 36% year-over-year.	Total revenue is $361.3 million for the fourth quarter of fiscal 2023.
+MDB_2022-08-31_EP_YH	Subscription revenue was $348.2 million , an increase of 35% year-over-year, and services revenue was $13.1 million , an increase of 59% year-over-year.	Subscription revenue was $348.2 million and services revenue is $13.1 million.
+MDB_2022-08-31_EP_YH	Non-GAAP Income From Operations in First Quarter Fiscal 2024 is $10.0 million to  $13.0 million  .	Non-GAAP Income From Operations in First Quarter Fiscal 2024 is expected to be between $10.0 million and $13.0 million  .
+MDB_2022-08-31_EP_YH	Continued Strong Customer Growth with Over 43,100 Customers as of April 30, 2023.	Customers are 43,100 as of April 30, 2023.
+MDB_2022-08-31_EP_YH	Net Loss: Net loss was $54.2 million , or $0.77 per share, based on 70.2 million weighted-average shares outstanding, for the first quarter of fiscal 2024.	Net loss is $54.2 million , or $0.77 per share, based on 70.2 million weighted-average shares outstanding, for the first quarter of fiscal 2024.
+MDB_2022-08-31_EP_YH	Non-GAAP Income From Operations in Full Year Fiscal 2024 is $110.0 million to  $125.0 million  .	Non-GAAP Income From Operations in Full Year Fiscal 2024 is expected to be between $110.0 million to  $125.0 million.
+NET_2022-08-04_EP_YH	Strong large customer growth, with a record addition of 212 large customers in the quarter, bringing number of large customers to 1,749.	212 added large customers in the quarter, and number of large customers are 1,749.
+NET_2022-08-04_EP_YH	Gross Profit : GAAP gross profit was $178.7 million, or 76.2% gross margin, compared to $117.4 million, or, 77.0% in the second quarter of 2021.	GAAP gross profit is $178.7 million, and GAAP gross margin is 76.2%.
+NET_2022-08-04_EP_YH	Non-GAAP gross profit was $185.0 million, or 78.9% gross margin, compared to $118.9 million, or 78.0%, in the second quarter of 2021.	Non-GAAP gross profit is $185.0 million and non-GAAP gross margin is 78.9%.
+NET_2022-08-04_EP_YH	Non-GAAP gross profit was $212.5 million or 77.4% gross margin, compared to $153.3 million, or 79.2%, in the fourth quarter of 2021.	Non-GAAP gross profit is $212.5 million and non-GAAP gross margin is 77.4%.
+NET_2022-08-04_EP_YH	Gross Profi t: GAAP gross profit was $206.9 million or 75.3% gross margin, compared to $151.1 million or 78.0%, in the fourth quarter of 2021.	GAAP gross profit is $206.9 million and GAAP gross margin is 75.3%.
+NET_2022-08-04_EP_YH	Revenu e: Total revenue of $975.2 million representing an increase of 49% year-over-year.	Total revenue is $975.2 million.
+NET_2022-08-04_EP_YH	Non-GAAP gross profit was $762.8 million, or 78.2% gross margin, compared to $515.9 million, or 78.6%, in fiscal 2021.	Non-GAAP gross profit is $762.8 million and non-GAAP gross margin is 78.2%.
+NET_2022-08-04_EP_YH	Total revenue of $1,330.0 to $1,342.0 million.	Total revenue is expected to be between $1,330.0 and $1,342.0 million.
+NET_2022-08-04_EP_YH	Non-GAAP gross profit was $225.9 million, or 77.8% gross margin, compared to $166.9 million, or 78.7%, in the first quarter of 2022.	Non-GAAP gross profit is $225.9 million and non-GAAP gross margin is 77.8%.
+OKTA_2022-08-31_EP_YH	Total revenue of $1.812 billion to $1.820 billion, representing a growth rate of 39% to 40% year-over-year	Total revenue is expected to be between $1.812 billion and $1.820 billion
+OKTA_2022-08-31_EP_YH	Total revenue of $2.155 billion to $2.170 billion, representing a growth rate of 16% to 17% year-over-year	Total revenue is expected to be between $2.155 billion to $2.170 billion.
+OKTA_2022-08-31_EP_YH	Current RPO of $1.71 billion to $1.72 billion, representing a growth rate of 14% to 15% year-over-year	Current RPO is expected to be between $1.71 billion and $1.72 billion.
+PATH_2022-09-06_EP_YH	ARR in the range of $1,091 million to $1,093 million as of October 31, 2022.	ARR is expected to be between $1,091 million to $1,093 million.
+PATH_2022-09-06_EP_YH	Revenue in the range of $1,002 million to $1,007 million.	Revenue is expected to be between $1,002 million to $1,007 million.
+PATH_2022-09-06_EP_YH	In this fiscal year ARR in the range of $1,153 million to $1,158 million as of January 31, 2023.	In this fiscal year ARR is expected to be between $1,153 million to $1,158 million.
+PATH_2022-09-06_EP_YH	ARR in the range of $1.425 billion to $1.430 billion as of January 31, 2024.	ARR is expected to be between $1.425 billion to $1.430 billion.
+PATH_2022-09-06_EP_YH	PG** Revenue of $289.6 million increased 18 percent year-over-year.	Revenue is $289.6 million.
+PATH_2022-09-06_EP_YH	Expect ARR in the range of $1.301 billion to $1.306 billion as of July 31, 2023.	ARR is expected to be between $1.301 billion and $1.306 billion.
+PATH_2022-09-06_EP_YH	Expect ARR in the range of $1.427 billion to $1.432 billion as of January 31, 2024.	ARR is expected to be between $1.427 billion to $1.432 billion.
+PAYC_2022-08-02_EP_YH	Adjusted EBITDA1 was $119.6 million, compared to $87.0 million in the same period last year.	Adjusted EBITDA is $119.6 million.
+PAYC_2022-08-02_EP_YH	Total Debt, Net was $29.0 million as of June 30, 2022, compared to $29.2 million as of December 31, 2021.	Total Debt is $29.0 million as of December 31, 2021.
+PAYC_2022-08-02_EP_YH	Non-GAAP Net Income1 was $100.2 million, or $1.73 per diluted share, compared to $64.4 million, or $1.11 per diluted share, in the same period last year.	Non-GAAP Net Income is $100.2 million, or $1.73 per diluted share.
+PAYC_2022-08-02_EP_YH	Total Revenues in the range of $1.700 billion to $1.702 billion.	Total Revenues is expected to be between $1.700 billion and $1.702 billion.
+PAYC_2022-08-02_EP_YH	Non-GAAP Net Income1 was $142.7 million, or $2.46 per diluted share, compared to $110.6 million, or $1.90 per diluted share, in the same period last year.	Non-GAAP Net Income is $142.7 million, or $2.46 per diluted share.
+PLTR_2022-08-08_EP_YH	For full year 2022, we now expect revenue of between $1.9 - $1.902 billion and adjusted income from operations of $341 - $343 million.	For full year 2022, we now expect revenue of between $1.9 - $1.902 billion and adjusted income from operations is expected to be between $341 - $343 million.
+PLTR_2022-08-08_EP_YH	"Total contract value (""TCV"") closed of $1.3 billion , including US TCV closed of $1.1 billion."	"Total contract value (""TCV"") is $1.3 billion and US TCV is $1.1 billion."
+PLTR_2022-08-08_EP_YH	Adjusted income from operations of $81 million , representing a margin of 17%.	Adjusted income from operations is $81 million.
+PLTR_2022-08-08_EP_YH	"US revenue of $1.11 billion on a trailing-twelve-month (""TTM"") basis, representing a 38% growth rate y/y."	US revenue is $1.11 billion.
+PLTR_2022-08-08_EP_YH	We are raising our outlook for adjusted income from operations to between $384 - $386 million.	Adjusted income from operations is expected to be between $384 - $386 million.
+PLTR_2022-08-08_EP_YH	After factoring in a negative $5 million currency impact since our prior quarter's guidance, we expect revenue of $503 - $505 million.	Revenue is expected to be between $503 - $505 million.
+PLTR_2022-08-08_EP_YH	We expect adjusted income from operations of $78 - $80 million.	Adjusted income from operations is expected to be between $78 - $80 million.
+PLTR_2022-08-08_EP_YH	US commercial customer count increased 79% year-over-year, from 80 customers in Q4 2021 to 143 customers in Q4 2022.	US commercial customer count is 143 in Q4 2022.
+PLTR_2022-08-08_EP_YH	Revenue of between $2,180 - $2,230 million.	Revenue is expected to be between $2,180 - $2,230 million.
+PLTR_2022-08-08_EP_YH	US commercial customer count increased 50% year-over-year, from 103 customers in Q1 2022 to 155 customers in Q1 2023.	US commercial customer count is 155 in Q1 2023.
+PLTR_2022-08-08_EP_YH	Revenue of between $2.185 - $2.235 billion.	Revenue is expected to be between $2.185 and $2.235 billion.
+RNG_2022-08-02_EP_YH	Maintaining subscriptions revenue range of $1.882 to $1.898 billion, representing annual growth of 27% to 28%.	Subscriptions revenue is expected to be between $1.882 to $1.898 billion.
+RNG_2022-08-02_EP_YH	Maintaining total revenue range of $1.990 to $2.015 billion.	Revenue is expected to be between $1.990 to $2.015 billion.
+RNG_2022-08-02_EP_YH	Raising non-GAAP EPS to $1.91 to $1.95 based on 96 to 97 million fully diluted shares.	non-GAAP EPS is expected to be between $1.91 to $1.95 based on 96 to 97 million fully diluted shares.
+RNG_2022-08-02_EP_YH	Total revenue range of $2.180 to $2.200 billion, representing annual growth of 10% to 11%.	Total revenue is expected to be between $2.180 and $2.200 billion.
+RNG_2022-08-02_EP_YH	Non-GAAP EPS range of $3.04 to $3.10 based on 99 to 100 million fully diluted shares.	Non-GAAP EPS is expected to be between $3.04 and $3.10 based on 99 to 100 million fully diluted shares.
+RNG_2022-08-02_EP_YH	Raising subscriptions revenue range to $2.086 to $2.104 billion, representing annual growth of 11%.	Subscriptions revenue is expected to be between $2.086 and $2.104 billion.
+RNG_2022-08-02_EP_YH	Raising total revenue range to $2.187 to $2.205 billion, representing annual growth of 10% to 11%.	Revenue is expected to be between $2.187 and $2.205 billion.
+RNG_2022-08-02_EP_YH	Raising GAAP operating margin range to (7.9%) to (6.6%), compared to the prior range of (8.3%) to (6.9%).	GAAP operating margin is expected to be between (7.9%) and (6.6%).
+RNG_2022-08-02_EP_YH	Raising non-GAAP EPS to $3.19 to $3.25 based on 98.0 to 99.0 million fully diluted shares.	Non-GAAP EPS is expected to be between $3.19 and $3.25 based on 98.0 to 99.0 million fully diluted shares.
+S_2022-08-31_EP_YH	Non-GAAP Operating Margin in Q3fy23guidance is (57)% .	Non-GAAP Operating Margin in Q3fy23guidance is expected to be (57)% .
+ZS_2022-09-08_EP_YH	Cash flow: Cash provided by operations was $103.1 million, or 32% of revenue, compared to $44.7 million, or 23% of revenue, in the fourth quarter of fiscal 2021.	Cash provided by operations is $103.1 million.
+ZS_2022-09-08_EP_YH	Cash flow: Cash provided by operations was $321.9 million, or 30% of revenue, compared to $202.0 million, or 30% of revenue, in fiscal 2021.	Cash provided by operations is $321.9 million.
+ZS_2022-09-08_EP_YH	Total revenue of approximately $1.49 billion to $1.50 billion.	Total revenue is expected to be between $1.49 billion to $1.50 billion.
+ZS_2022-09-08_EP_YH	"Non-GAAP net income per share of $1.16 to $1.18, assuming approximately 157 million common shares outstanding using the ""if-converted"" method for our senior convertible notes."	"Non-GAAP net income per share is expected to be between $1.16 and $1.18, assuming approximately 157 million common shares outstanding using the ""if-converted"" method for our senior convertible notes."
+ZS_2022-09-08_EP_YH	Total revenue of approximately $1.525 billion to $1.530 billion.	Total revenue is expected to be between $1.525 billion to $1.530 billion.
+ZS_2022-09-08_EP_YH	Cash flow: Cash provided by operations was $108.5 million, or 26% of revenue, compared to $77.2 million, or 27% of revenue, in the third quarter of fiscal 2022.	Cash provided by operations is $108.5 million.
+ZI_2022-08-01_EP_YH	GAAP Revenue in Fy 2022 is $1.08 BN - $1.09 billion  .	GAAP Revenue in Full Year 2022 is expected to be between $1.08 BN - $1.09 billion  .
+ZI_2022-08-01_EP_YH	GAAP Operating Margin of 18% and Adjusted Operating Income Margin of 41%.	GAAP Operating Margin is 18% and Adjusted Operating Income Margin is 41%.
+ZI_2022-08-01_EP_YH	Operating income of $175.8 million and Adjusted Operating Income of $447.8 million.	Operating income is $175.8 million and Adjusted Operating Income is $447.8 million.
+ZI_2022-08-01_EP_YH	GAAP Revenue in Fy 2023 is $1.275 BN - $1.285 billion  .	GAAP Revenue in Full Year 2023 is expected to be between $1.275 BN and $1.285 billion  .
+ZI_2022-08-01_EP_YH	Closed the quarter with 1,905 customers with $100,000 or greater in annual contract value.	Customers with $100,000 or greater in annual contract value are 1,905.
+ZI_2022-08-01_EP_YH	GAAP Revenue in Fy 2023 is $1.275 BN - $1.285 billion  .	GAAP Revenue in Full Year 2023 is expected to be between $1.275 BN and $1.285 billion  .
+TWLO_2022-08-04_EP_YH	Organic revenue 1 grew 33% year-over-year.	Organic revenue grew 33% year-over-year.
+TWLO_2022-08-04_EP_YH	More than 275,000 Active Customer Accounts as of June 30, 2022, compared to 240,000 Active Customer Accounts as of June 30, 2021.	Active Customer Accounts are 275,000 as of June 30, 2022.
+TWLO_2022-08-04_EP_YH	More than 290,000 Active Customer Accounts as of December 31, 2022, compared to more than 256,000 Active Customer Accounts as of December 31, 2021.	Active Customer Accounts are 290,000 as of December 31, 2022.
+TWLO_2022-08-04_EP_YH	Surpassed 300,000 Active Customer Accounts in the First Quarter.	Active Customer Accounts are 300,000 in the First Quarter.
+TWLO_2022-08-04_EP_YH	More than 300,000 Active Customer Accounts as of March 31, 2023 compared to more than 268,000 Active Customer Accounts as of March 31, 2022.	Active Customer Accounts are 300,000 as of March 31.
+TTD_2022-08-09_EP_YH	GAAP Results Revenue in Three Months Endedjune 30, 2022 is $377 MN .	GAAP Revenue in Three Months Endedjune 30, 2022 is $377 MN .
+TTD_2022-08-09_EP_YH	GAAP Results Net Income (loss) in Three Months Endedjune 30, 2022 is $(19 MN .	GAAP Net Income (loss) in Three Months Endedjune 30, 2022 is $(19) MN .
+TTD_2022-08-09_EP_YH	GAAP Results GAAP Diluted Earnings (loss) Per Share in Three Months Endedjune 30, 2022 is $(0.04 .	GAAP Diluted Earnings (loss) Per Share in Three Months Endedjune 30, 2022 is $(0.04) .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Adjusted Ebitda in Three Months Endedjune 30, 2022 is $139 MN .	Non-GAAP Adjusted Ebitda in Three Months Endedjune 30, 2022 is $139 MN .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Adjusted Ebitda Margin in Three Months Endedjune 30, 2022 is 37% .	Non-GAAP Adjusted Ebitda Margin in Three Months Endedjune 30, 2022 is 37% .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Non-GAAP Net Income in Three Months Endedjune 30, 2022 is $99 MN .	Non-GAAP Net Income in Three Months Endedjune 30, 2022 is $99 MN .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Non-GAAP Diluted Earnings Per Share in Three Months Endedjune 30, 2022 is $0.20 .	Non-GAAP Diluted Earnings Per Share in Three Months Endedjune 30, 2022 is $0.20 .
+TTD_2022-08-09_EP_YH	GAAP Results Revenue in Three Months Endeddecember 31, 2022 is $491 MN .	GAAP Revenue in Three Months Endeddecember 31, 2022 is $491 MN .
+TTD_2022-08-09_EP_YH	GAAP Results Revenue in Year Endeddecember 31, 2022 is $1578 MN .	GAAP Revenue in Year Endeddecember 31, 2022 is $1578 MN .
+TTD_2022-08-09_EP_YH	GAAP Results Net Income in Three Months Endeddecember 31, 2022 is $71 MN .	GAAP Net Income in Three Months Endeddecember 31, 2022 is $71 MN .
+TTD_2022-08-09_EP_YH	GAAP Results Net Income in Year Endeddecember 31, 2022 is $53 MN .	GAAP Net Income in Year Endeddecember 31, 2022 is $53 MN .
+TTD_2022-08-09_EP_YH	GAAP Results GAAP Diluted Earnings Per Share in Three Months Endeddecember 31, 2022 is $0.14 .	GAAP Diluted Earnings Per Share in Three Months Endeddecember 31, 2022 is $0.14 .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Adjusted Ebitda in Three Months Endeddecember 31, 2022 is $245 MN .	Non-GAAP Adjusted Ebitda in Three Months Endeddecember 31, 2022 is $245 MN .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Adjusted Ebitda in Year Endeddecember 31, 2022 is $668 MN .	Non-GAAP Adjusted Ebitda in Year Endeddecember 31, 2022 is $668 MN .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Adjusted Ebitda Margin in Three Months Endeddecember 31, 2022 is 50% .	Non-GAAP Adjusted Ebitda Margin in Three Months Endeddecember 31, 2022 is 50% .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Adjusted Ebitda Margin in Year Endeddecember 31, 2022 is 42% .	Non-GAAP Adjusted Ebitda Margin in Year Endeddecember 31, 2022 is 42% .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Non-GAAP Net Income in Three Months Endeddecember 31, 2022 is $190 MN .	Non-GAAP Net Income in Three Months Endeddecember 31, 2022 is $190 MN .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Non-GAAP Net Income in Year Endeddecember 31, 2022 is $522 MN .	Non-GAAP Net Income in Year Endeddecember 31, 2022 is $522 MN .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Non-GAAP Diluted Earnings Per Share in Three Months Endeddecember 31, 2022 is $0.38 .	Non-GAAP Diluted Earnings Per Share in Three Months Endeddecember 31, 2022 is $0.38 .
+TTD_2022-08-09_EP_YH	Non-GAAP Results Non-GAAP Diluted Earnings Per Share in Year Endeddecember 31, 2022 is $1.04 .	Non-GAAP Diluted Earnings Per Share in Year Endeddecember 31, 2022 is $1.04 .
+TTD_2022-08-09_EP_YH	Continued Share Gains: 2022 gross spend of nearly $7.8 billion.	2022 Full Year gross spend is $7.8 billion.
+UPST_2022-08-08_EP_YH	Adjusted EBITDA of approximately $0.	Adjusted EBITDA is expected to be $0.
+ZM_2022-08-22_EP_YH	Third Quarter Fiscal Year 2023: Total revenue is expected to be between $1.095 billion and $1.100 billion and non-GAAP income from operations is expected to be between $325.0 million and $330.0 million.	Total revenue is expected to be between $1.095 billion and $1.100 billion and non-GAAP income from operations is expected to be between $325.0 million and $330.0 million.
+ZM_2022-08-22_EP_YH	Enterprise revenue was $614.3 million, up 20% year over year and Online revenue was $487.6 million, down 9% year over year.	Enterprise revenue is $614.3 million and Online revenue is $487.6 million.
+ZM_2022-08-22_EP_YH	Full fiscal year non-GAAP income from operations is expected to be between $1.490 billion and $1.500 billion.	Full fiscal year non-GAAP income from operations is expected to be between $1.490 billion and $1.500 billion.
+ZM_2022-08-22_EP_YH	Approximately 213,000 Enterprise customers, up 12% year over year.	Enterprise customers are 213,000.
+ZM_2022-08-22_EP_YH	First Quarter: Total revenue is expected to be between $1.080 billion and $1.085 billion.	Total revenue is expected to be between $1.080 billion and $1.085 billion.
+ZM_2022-08-22_EP_YH	Full Fiscal Year 2024: Total revenue is expected to be between $4.435 billion and $4.455 billion.	Full Fiscal Year 2024 total revenue is expected to be between $4.435 billion and $4.455 billion.
+ZM_2022-08-22_EP_YH	Enterprise revenue was $632.0 million, up 13% year over year, and Online revenue was $473.4 million, down 8% year over year.	Enterprise revenue is $632.0 million and Online revenue is $473.4 million.
+ZM_2022-08-22_EP_YH	Second Quarter Fiscal Year 2024: Total revenue is expected to be between $1.110 billion and $1.115 billion and revenue in constant currency is expected to be between $1.120 billion and $1.125 billion.	Total revenue is expected to be between $1.110 billion and $1.115 billion and revenue in constant currency is expected to be between $1.120 billion and $1.125 billion.
+ZM_2022-08-22_EP_YH	Full Fiscal Year 2024: Total revenue is expected to be between $4.465 billion and $4.485 billion and revenue in constant currency is expected to be between $4.495 billion and $4.515 billion.	Full Fiscal Year 2024 total revenue is expected to be between $4.465 billion and $4.485 billion and revenue in constant currency is expected to be between $4.495 billion and $4.515 billion.
+ZM_2022-08-22_EP_YH	; full fiscal year Enterprise revenue of $2,409.3 million , up 24% year over year.	Full fiscal year Enterprise revenue is $2,409.3 million.
 PAYC_2022-05-04_EP_YH_phrase.tsv	" OKLAHOMA CITY, May 03, 2022--(BUSINESS WIRE)--Paycom Software, Inc. (""Paycom,"" ""we"" and ""our"") (NYSE: PAYC), a leading provider of comprehensive, cloud-based human capital management software, today announced its financial results for the quarter ended March 31, 2022."	" OKLAHOMA CITY, May 03, 2022--(BUSINESS WIRE)--Paycom Software, Inc. (""Paycom,"" ""we"" and ""our"") (NYSE: PAYC), a leading provider of comprehensive, cloud-based human capital management software, today announced its financial results for the quarter ended March 31, 2022."
 PAYC_2022-05-04_EP_YH_phrase.tsv	 Financial Highlights for the First Quarter of 2022.	 Financial Highlights for the First Quarter of 2022.
 PAYC_2022-05-04_EP_YH_phrase.tsv	 Total Revenues of $353.5 million represented a 29.9% increase compared to total revenues of $272.2 million in the same period last year.	 Total Revenues is $353.5 million.
