@@ -1,0 +1,171 @@
+filename	Sentence1	Sentence2
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- GAAP Gross Profit is $9462 MN in second quarter 2024 @@@	{"ENTITIES": ["METRIC=GAAP,METRIC=Gross Profit,MONEY=$9462 MN,CALENDAR=second quarter,YEAR=2024"], "RELATIONS": ["KEY:GAAP GROSS PROFIT!!TYPE:OUT!!MONEY:$9462 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- GAAP Gross Margin is 70.05% in second quarter 2024 @@@	{"ENTITIES": ["METRIC=GAAP,METRIC=Gross Margin,PCT=70.05%,CALENDAR=second quarter,YEAR=2024"], "RELATIONS": ["KEY:GAAP GROSS MARGIN!!TYPE:OUT!!PCT:70.05%!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** NVIDIA.	{"ENTITIES": ["LOC=NVIDIA"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** NVIDIA campus.	{"ENTITIES": ["LOC=NVIDIA"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** NVIDIA campus in Santa Clara, Calif.	{"ENTITIES": ["ORG=NVIDIA,LOC=Santa Clara,LOC=Calif."], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Record revenue of $13.51 billion, up 88% from Q1, up 101% from year ago.	{"ENTITIES": ["METRIC=revenue,MONEY=$13.51 billion,CHG=up,PCT=88%,CALENDAR=Q1,CHG=up,PCT=101%,CALENDAR=year ago"], "RELATIONS": ["KEY:REVENUE!!TYPE:OUT!!MONEY:$13.51 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Record Data Center revenue of $10.32 billion, up 141% from Q1, up 171% from year ago.	{"ENTITIES": ["METRIC=Data Center,METRIC=revenue,MONEY=$10.32 billion,CHG=up,PCT=141%,CALENDAR=Q1,CHG=up,PCT=171%,CALENDAR=year ago"], "RELATIONS": ["KEY:Data Center REVENUE!!TYPE:INPUT!!MONEY:$10.32 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** SANTA CLARA, Calif., Aug. 23, 2023 (GLOBE NEWSWIRE)	{"ENTITIES": ["LOC=SANTA CARROLE,LOC=Calif.,DATE=Aug. 23 2023"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- -- NVIDIA (NASDAQ: NVDA) today reported revenue for the second quarter ended July 30, 2023, of $13.51 billion, up 101% from a year ago and up 88% from the previous quarter.	{"ENTITIES": ["ORG=NVIDIA,ORG=NASDAQ,SYM=NVDA,METRIC=revenue,CALENDAR=second quarter,DATE=July 30 2023,MONEY=$13.51 billion,CHG=up,PCT=101%,CALENDAR=year ago,CHG=up,PCT=88%,CALENDAR=last quarter"], "RELATIONS": ["KEY:REVENUE!!TYPE:OUT!!MONEY:$13.51 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** GAAP earnings per diluted share for the quarter were $2.48, up 854% from a year ago and up 202% from the previous quarter.	{"ENTITIES": ["METRIC=GAAP,METRIC=earnings per diluted share,MONEY=$2.48,CHG=up,PCT=854%,CALENDAR=year ago,CHG=up,PCT=202%,CALENDAR=last quarter"], "RELATIONS": ["KEY:GAAP earnings per diluted share!!TYPE:OUT!!MONEY:$2.48!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Non-GAAP earnings per diluted share were $2.70, up 429% from a year ago and up 148% from the previous quarter.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=earnings per diluted share,MONEY=$2.70,CHG=up,PCT=429%,CALENDAR=year ago,CHG=up,PCT=148%,CALENDAR=last quarter"], "RELATIONS": ["KEY:Non-GAAP earnings per diluted share!!TYPE:OUT!!MONEY:$2.70!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	CS*** “A new computing era has begun.	NO PREDICTION
+
+NVDA_2023-08-23_EP_YH	CS*** Companies worldwide are transitioning from general-purpose to accelerated computing and generative AI,” said Jensen Huang, founder and CEO of NVIDIA.	NO PREDICTION
+
+NVDA_2023-08-23_EP_YH	CS*** “NVIDIA GPUs connected by our Mellanox networking and switch technologies and running our CUDA AI software stack make up the computing infrastructure of generative AI.	NO PREDICTION
+
+NVDA_2023-08-23_EP_YH	CS*** “During the quarter, major cloud service providers announced massive NVIDIA H100 AI infrastructures.	NO PREDICTION
+
+NVDA_2023-08-23_EP_YH	CS*** Leading enterprise IT system and software providers announced partnerships to bring NVIDIA AI to every industry.	NO PREDICTION
+
+NVDA_2023-08-23_EP_YH	CS*** The race is on to adopt generative AI,” he said.	NO PREDICTION
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** During the second quarter of fiscal 2024, NVIDIA returned $3.38 billion to shareholders in the form of 7.5 million shares repurchased for $3.28 billion, and cash dividends.	{"ENTITIES": ["CALENDAR=second quarter,YEAR=2024,ORG=NVIDIA,METRIC=returned to shareholders,MONEY=$3.38 billion,METRIC=shares repurchased,CD=7.5 million,MONEY=$3.28 billion,METRIC=cash dividends"], "RELATIONS": ["KEY:returned to shareholders!!TYPE:OUT!!MONEY:$3.38 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- As of the end of the second quarter, the company had $3.95 billion remaining under its share repurchase authorization.	{"ENTITIES": ["CALENDAR=second quarter,MONEY=$3.95 billion,METRIC=remaining share repurchase authorization"], "RELATIONS": ["KEY:remaining share repurchase authorization!!TYPE:OUT!!MONEY:$3.95 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- On August 21, 2023, the Board of Directors approved an additional $25.00 billion in share repurchases, without expiration.	{"ENTITIES": ["DATE=August 21 2023,ROLE=Board of Directors,MONEY=$25.00 billion,METRIC=share"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- NVIDIA plans to continue share repurchases this fiscal year.	{"ENTITIES": ["ORG=NVIDIA,METRIC=share"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** NVIDIA will pay its next	{"ENTITIES": ["ORG=NVIDIA,FC=pays"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- quarterly cash dividend of $0.04 per share on September 28, 2023, to all shareholders of record on September 7, 2023.	{"ENTITIES": ["METRIC=cash dividend,MONEY=$0.04,METRIC=per share,DATE=September 28 2023,CD=shareholders,DATE=September 7 2023"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	SCHQ*** Q2 Fiscal 2024 Summary.	{"ENTITIES": ["CALENDAR=Q2,YEAR=2024"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	TBLST***  .	NO PREDICTION
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Revenue in Q2 Fy24 is $13507 MN .	{"ENTITIES": ["METRIC=Revenue,CALENDAR=Q2,FC=Fy24,MONEY=$13507 MN"], "RELATIONS": ["KEY:REVENUE!!TYPE:OUT!!MONEY:$13507 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Revenue in Q1 Fy24 is $7192 MN .	{"ENTITIES": ["METRIC=Revenue,CALENDAR=Q1,FC=Fy24,MONEY=$7192 MN"], "RELATIONS": ["KEY:REVENUE!!TYPE:OUT!!MONEY:$7192 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q1!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Revenue in Q2 Fy23 is $6704 MN .	{"ENTITIES": ["METRIC=Revenue,CALENDAR=Q2,MONEY=$6704 MN"], "RELATIONS": ["KEY:REVENUE!!TYPE:OUT!!MONEY:$6704 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2023"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Gross Margin in Q2 Fy24 is 70.1% .	{"ENTITIES": ["METRIC=Gross Margin,CALENDAR=Q2,PCT=70.1%"], "RELATIONS": ["KEY:GAAP GROSS MARGIN!!TYPE:OUT!!PCT:70.1%!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Gross Margin in Q1 Fy24 is 64.6% .	{"ENTITIES": ["METRIC=Gross Margin,CALENDAR=Q1,PCT=64.6%"], "RELATIONS": ["KEY:GAAP GROSS MARGIN!!TYPE:OUT!!PCT:64.6%!!LINK:KV!!SECTION:REGULAR!!QTR:Q1!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Gross Margin in Q2 Fy23 is 43.5% .	{"ENTITIES": ["METRIC=Gross Margin,CALENDAR=Q2,PCT=43.5%"], "RELATIONS": ["KEY:GAAP GROSS MARGIN!!TYPE:OUT!!PCT:43.5%!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2023"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Operating Expenses in Q2 Fy24 is $2662 MN .	{"ENTITIES": ["METRIC=Operating Expenses,CALENDAR=Q2,YEAR=2024,MONEY=$2662 MN"], "RELATIONS": ["KEY:OPERATING Expenses!!TYPE:OUT!!MONEY:$2662 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Operating Expenses in Q1 Fy24 is $2508 MN .	{"ENTITIES": ["METRIC=Operating Expenses,CALENDAR=Q1,YEAR=2024,MONEY=$2508 MN"], "RELATIONS": ["KEY:OPERATING Expenses!!TYPE:OUT!!MONEY:$2508 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q1!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Operating Expenses in Q2 Fy23 is $2416 MN .	{"ENTITIES": ["METRIC=Operating Expenses,CALENDAR=Q2,MONEY=$2416 MN"], "RELATIONS": ["KEY:OPERATING Expenses!!TYPE:OUT!!MONEY:$2416 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2023"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Operating Income in Q2 Fy24 is $6800 MN .	{"ENTITIES": ["METRIC=Operating Income,CALENDAR=Q2,YEAR=2024,MONEY=$6800 MN"], "RELATIONS": ["KEY:GAAP OPERATING INCOME!!TYPE:OUT!!MONEY:$6800 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Operating Income in Q1 Fy24 is $2140 MN .	{"ENTITIES": ["METRIC=Operating Income,CALENDAR=Q1,YEAR=2024,MONEY=$2140 MN"], "RELATIONS": ["KEY:GAAP OPERATING INCOME!!TYPE:OUT!!MONEY:$2140 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q1!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Operating Income in Q2 Fy23 is $499 MN .	{"ENTITIES": ["METRIC=Operating Income,CALENDAR=Q2,MONEY=$499 MN"], "RELATIONS": ["KEY:GAAP OPERATING INCOME!!TYPE:OUT!!MONEY:$499 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2023"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Net Income in Q2 Fy24 is $6188 MN .	{"ENTITIES": ["METRIC=Net Income,CALENDAR=Q2,YEAR=2024,MONEY=$6188 MN"], "RELATIONS": ["KEY:GAAP NET INCOME!!TYPE:OUT!!MONEY:$6188 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Net Income in Q1 Fy24 is $2043 MN .	{"ENTITIES": ["METRIC=Net Income,CALENDAR=Q1,YEAR=2024,MONEY=$2043 MN"], "RELATIONS": ["KEY:GAAP NET INCOME!!TYPE:OUT!!MONEY:$2043 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q1!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Net Income in Q2 Fy23 is $656 MN .	{"ENTITIES": ["METRIC=Net Income,CALENDAR=Q2,MONEY=$656 MN"], "RELATIONS": ["KEY:GAAP NET INCOME!!TYPE:OUT!!MONEY:$656 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2023"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Diluted Earnings Per Share in Q2 Fy24 is $2.48 .	{"ENTITIES": ["METRIC=Diluted Earnings Per Share,CALENDAR=Q2,YEAR=2024,MONEY=$2.48"], "RELATIONS": ["KEY:Diluted Earnings Per Share!!TYPE:OUT!!MONEY:$2.48!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Diluted Earnings Per Share in Q1 Fy24 is $0.82 .	{"ENTITIES": ["METRIC=Diluted Earnings Per Share,CALENDAR=Q1,YEAR=2024,MONEY=$0.82"], "RELATIONS": ["KEY:Diluted Earnings Per Share!!TYPE:OUT!!MONEY:$0.82!!LINK:KV!!SECTION:REGULAR!!QTR:Q1!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- Q2 Fiscal 2024 Summary. -%%%- Diluted Earnings Per Share in Q2 Fy23 is $0.26 .	{"ENTITIES": ["METRIC=Diluted Earnings Per Share,CALENDAR=Q2,YEAR=2023,MONEY=$0.26"], "RELATIONS": ["KEY:Diluted Earnings Per Share!!TYPE:OUT!!MONEY:$0.26!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2023"]}
+
+NVDA_2023-08-23_EP_YH	TBLET***  .	NO PREDICTION
+
+NVDA_2023-08-23_EP_YH	SCG*** OutlookNVIDIA’s outlook for the third quarter of fiscal 2024 is as follows:.	{"ENTITIES": ["FC=OutlookNVIDIA,CALENDAR=third quarter,YEAR=2024"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** OutlookNVIDIA’s outlook for the third quarter of fiscal 2024 is as follows:. -%%%- 	{"ENTITIES": ["ORG=OutlookNVIDIA's,CALENDAR=third quarter,YEAR=2024"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** OutlookNVIDIA’s outlook for the third quarter of fiscal 2024 is as follows:. -%%%- Story continues.	{"ENTITIES": ["ORG=OutlookNVIDIA's,CALENDAR=third quarter,YEAR=2024"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** OutlookNVIDIA’s outlook for the third quarter of fiscal 2024 is as follows:. -%%%-  Revenue is expected to be $16.00 billion, plus or minus 2%.	{"ENTITIES": ["METRIC=Revenue,MONEY=$16.00 billion,PCT=2%"], "RELATIONS": ["KEY:REVENUE!!TYPE:OUT!!MONEY:$16.00 BN!!LINK:KV!!SECTION:GUIDE!!QTR:Q3!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** OutlookNVIDIA’s outlook for the third quarter of fiscal 2024 is as follows:. -%%%-  GAAP and non-GAAP gross margins are expected to be 71.5% and 72.5%, respectively, plus or minus 50 basis points.	{"ENTITIES": ["METRIC=GAAP,METRIC=non-GAAP,METRIC=gross margins,PCT=71.5%,PCT=72.5%,PCT=50 basis points"], "RELATIONS": ["KEY:GAAP GROSS MARGIN!!TYPE:OUT!!PCT:71.5%!!LINK:KV!!SECTION:GUIDE!!QTR:Q3!!YEAR:2024", "KEY:NON-GAAP GROSS MARGIN!!TYPE:OUT!!PCT:72.5%!!LINK:KV!!SECTION:GUIDE!!QTR:Q3!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** OutlookNVIDIA’s outlook for the third quarter of fiscal 2024 is as follows:. -%%%-  GAAP and non-GAAP operating expenses are expected to be approximately $2.95 billion and $2.00 billion, respectively.	{"ENTITIES": ["METRIC=GAAP,METRIC=non-GAAP,METRIC=operating expenses,MONEY=$2.95 billion,MONEY=$2.00 billion"], "RELATIONS": ["KEY:GAAP OPERATING EXPENSE!!TYPE:OUT!!MONEY:$2.95 BN!!LINK:KV!!SECTION:GUIDE!!QTR:Q3!!YEAR:2024", "KEY:NON-GAAP OPERATING EXPENSE!!TYPE:OUT!!MONEY:$2.00 BN!!LINK:KV!!SECTION:GUIDE!!QTR:Q3!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** OutlookNVIDIA’s outlook for the third quarter of fiscal 2024 is as follows:. -%%%-  GAAP and non-GAAP other income and expense are expected to be an income of approximately $100 million, excluding gains and losses from non-affiliated investments.	{"ENTITIES": ["METRIC=GAAP,METRIC=non-GAAP,METRIC=income,METRIC=expense,MONEY=$100 million,CHG=gains,METRIC=non-affiliated investments"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** OutlookNVIDIA’s outlook for the third quarter of fiscal 2024 is as follows:. -%%%-  GAAP and non-GAAP tax rates are expected to be 14.5%, plus or minus 1%, excluding any discrete items.	{"ENTITIES": ["METRIC=GAAP,METRIC=non-GAAP,METRIC=tax rates,PCT=14.5%,PCT=minus,PCT=1%"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	SCBQ*** Highlights.	{"ENTITIES": ["FC=Guidance"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Highlights. -%%%-  NVIDIA achieved progress since its previous earnings announcement in these areas:.	{"ENTITIES": ["ORG=NVIDIA,CHG=achieved,CHG=announced"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	SCBQ*** Data Center.	{"ENTITIES": ["METRIC=Data Center"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Second-quarter revenue was a record $10.32 billion, up 141% from the previous quarter and up 171% from a year ago.	{"ENTITIES": ["METRIC=Data Center,CALENDAR=Second-quarter,METRIC=revenue,MONEY=$10.32 billion,CHG=up,PCT=141%,CALENDAR=last quarter,CHG=up,PCT=171%,CALENDAR=year ago"], "RELATIONS": ["KEY:Data Center REVENUE!!TYPE:INPUT!!MONEY:$10.32 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Announced that the NVIDIA® GH200 Grace™ Hopper™ Superchip for complex AI and HPC workloads is shipping this quarter, with a second-generation version with HBM3e memory expected to ship in Q2 of calendar 2024.	{"ENTITIES": ["METRIC=Data Center,CHG=Announced,MISC=NVIDIA®,MISC=GH200 GraceTM,MISC=Superchip,MISC=AI,MISC=PCC workloads,CALENDAR=second-generation,MISC=HBM3e memory,CALENDAR=Q2,YEAR=2024"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Announced the NVIDIA L40S GPU — a universal data center processor designed to accelerate the most compute-intensive applications — available from leading server makers in a broad range of platforms, including NVIDIA OVX™ and NVIDIA AI-ready servers with NVIDIA BlueField® DPUs, beginning this quarter.	{"ENTITIES": ["METRIC=Data Center,CHG=Announced,MISC=NVIDIA L40S GPU,MISC=data center,MISC=NVIDIA OVXTM,MISC=NVIDIA AI-ready,MISC=NVIDIA BlueFieldTM DPUs"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Unveiled NVIDIA MGX ™, a server reference design available this quarter that lets system makers quickly and cost-effectively build more than 100 server variations for AI, HPC and NVIDIA Omniverse™ applications.	{"ENTITIES": ["METRIC=Data Center,CHG=Unveiled,MISC=NVIDIA MGXTM,MISC=AI,MISC=PCC,MISC=NVIDIA OmniverseTM"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Announced NVIDIA Spectrum-X™ , an accelerated networking platform designed to improve the performance and efficiency of Ethernet-based AI clouds, which is shipping this quarter.	{"ENTITIES": ["METRIC=Data Center,CHG=Announced,ORG=NVIDIA,MISC=Stellar-XTM,MISC=Energy-based AI clouds"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Joined with global system makers to announce new NVIDIA RTX™ workstations with up to four new NVIDIA RTX 6000 Ada GPUs, as well as NVIDIA AI Enterprise and NVIDIA Omniverse Enterprise software, expected to ship this quarter.	{"ENTITIES": ["METRIC=Data Center,METRIC=global,CHG=announced,MISC=NVIDIA RTXTM,MISC=NVIDIA RTX 6000,MISC=Ada GPUs,MISC=NVIDIA AI Enterprise,MISC=NVIDIA Omniverse Enterprise"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Launched general availability of cloud instances based on NVIDIA H100 Tensor Core GPUs with Amazon Web Services , Microsoft Azure and regional cloud service providers.	{"ENTITIES": ["METRIC=Data Center,CHG=Launched,MISC=cloud instances,ORG=NVIDIA,MISC=H100 Tensor Core GPUs,MISC=Amazon Web Services,MISC=Microsoft Azure,MISC=cloud service providers"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Partnered with a range of companies on AI initiatives, including:.	{"ENTITIES": ["METRIC=Data Center,CHG=Partnerd,MISC=AI"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  ServiceNow and Accenture to develop AI Lighthouse, a first-of-its-kind program to fast-track the development and adoption of enterprise generative AI capabilities.	{"ENTITIES": ["METRIC=Data Center,ORG=ServiceNow,ORG=Adjusted AI Lighthouse,MISC=enterprise generative AI capabilities"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  VMware to extend the companies’ strategic partnership to ready enterprises running VMware’s cloud infrastructure for the era of generative AI with VMware Private AI Foundation with NVIDIA.	{"ENTITIES": ["METRIC=Data Center,ORG=VMware,CHG=partnership,MISC=Cloud infrastructure,MISC=AI,MISC=VV Private AI Foundation,MISC=NVIDIA"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Snowflake to provide businesses with an accelerated path to create customized generative AI applications using their own proprietary data.	{"ENTITIES": ["METRIC=Data Center,ORG=Snowflake,MISC=AI applications"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  WPP to develop a generative AI-enabled content engine that lets creative teams produce high-quality commercial content faster, more efficiently and at scale while staying fully aligned with a client’s brand.	{"ENTITIES": ["METRIC=Data Center,MISC=AI-enabled,MISC=content engine,CHG=high-quality,MISC=commercial content"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  SoftBank to create a platform for generative AI and 5G/6G applications based on the GH200, which SoftBank plans to roll out at new, distributed AI data centers across Japan.	{"ENTITIES": ["METRIC=Data Center,ORG=SoftBank,MISC=AI,MISC=5G/6G applications,ORG=GH200,ORG=SoftBank,MISC=AI data centers,LOC=Japan"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Hugging Face to give developers access to NVIDIA DGX™ Cloud AI supercomputing within the Hugging Face platform to train and tune advanced AI models.	{"ENTITIES": ["METRIC=Data Center,CHG=Hubging Face,MISC=NVIDIA,MISC=DGXTM,MISC=Cloud AI,MISC=Hubging Face"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Announced NVIDIA AI Workbench , an easy-to-use toolkit allowing developers to quickly create, test and customize pretrained generative AI models on a PC or workstation and then scale them, as well as NVIDIA AI Enterprise 4.0 , the latest version of its enterprise software.	{"ENTITIES": ["METRIC=Data Center,CHG=Announced,ORG=NVIDIA AI Workbench,MISC=AI models,MISC=PC,MISC=NVIDIA AI Enterprise 4.0"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Data Center. -%%%-  Set records in the latest MLPerf training benchmarks with H100 GPUs, excelling in a new measure for generative AI.	{"ENTITIES": ["METRIC=Data Center,MISC=H100 GPUs,MISC=AI"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	SCBQ*** Gaming.	{"ENTITIES": ["METRIC=Gaming"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Gaming. -%%%-  Second-quarter revenue was $2.49 billion, up 11% from the previous quarter and up 22% from a year ago.	{"ENTITIES": ["METRIC=Gaming,CALENDAR=Second-quarter,METRIC=revenue,MONEY=$2.49 billion,CHG=up,PCT=11%,CALENDAR=last quarter,CHG=up,PCT=22%,CALENDAR=year ago"], "RELATIONS": ["KEY:Gaming REVENUE!!TYPE:INPUT!!MONEY:$2.49 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Gaming. -%%%-  Began shipping the GeForce RTX™ 4060 family of GPUs, bringing to gamers NVIDIA Ada Lovelace architecture and DLSS, starting at $299.	{"ENTITIES": ["METRIC=Gaming,CHG=Bagan,MISC=GeForce RTXTM,CD=4060,METRIC=PCS,MISC=NVIDIA,MISC=Ada Lovelace architecture,MISC=DLSS,MONEY=$299.0"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Gaming. -%%%-  Announced NVIDIA Avatar Cloud Engine, or ACE, for Games , a custom AI model foundry service using AI-powered natural language interactions to transform games by bringing intelligence to non-playable characters.	{"ENTITIES": ["METRIC=Gaming,CHG=Announced,ORG=NVIDIA,MISC=Avatar Cloud Engine,MISC=ACE,MISC=AI-powered,MISC=AI-powered"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Gaming. -%%%-  Added 35 DLSS games, including Diablo IV , Ratchet & Clank: Rift Apart, Baldur’s Gate 3 and F1 23, as well as Portal: Prelude RTX, a path-traced game made by the community using NVIDIA’s RTX Remix creator tool.	{"ENTITIES": ["METRIC=Gaming,CHG=Added,CD=35,MISC=DLSS,ORG=Diablo IV,ORG=Rift Apart,ORG=Baldur's Gate 3 and F1 23,MISC= Portal: Prelude RTX,MISC=NVIDIA's,MISC=RTX Remix"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	SCBQ*** Professional Visualization.	{"ENTITIES": ["METRIC=Professional Visualization"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Professional Visualization. -%%%-  Second-quarter revenue was $379 million, up 28% from the previous quarter and down 24% from a year ago.	{"ENTITIES": ["METRIC=Professional Visualization,CALENDAR=Second-quarter,METRIC=revenue,MONEY=$379 million,CHG=up,PCT=28%,CALENDAR=last quarter,CHG=down,PCT=24%,CALENDAR=year ago"], "RELATIONS": ["KEY:Professional Visualization REVENUE!!TYPE:INPUT!!MONEY:$379 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Professional Visualization. -%%%-  Announced three new desktop workstation RTX GPUs based on the Ada Lovelace architecture — NVIDIA RTX 5000, RTX 4500 and RTX 4000 — to deliver the latest AI, graphics and real-time rendering, which are shipping this quarter.	{"ENTITIES": ["METRIC=Professional Visualization,CHG=Announced,CD=3 new,MISC= desktop workstation RTX GPUs,ORG=Ada Lovelace,MISC=NVIDIA,MISC=RX 5000,MISC=RX 4500,MISC=RX 4000,MISC=AI,MISC=AI"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Professional Visualization. -%%%-  Announced a major release of the NVIDIA Omniverse platform, with new foundation applications and services for developers and industrial enterprises to optimize and enhance their 3D pipelines with OpenUSD and generative AI.	{"ENTITIES": ["METRIC=Professional Visualization,CHG=Announced,MISC=NVIDIA Omniverse,MISC=OpenUSD,MISC=AI"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Professional Visualization. -%%%-  Joined with Pixar, Adobe, Apple and Autodesk to form the Alliance for OpenUSD to promote the standardization, development, evolution and growth of Universal Scene Description technology.	{"ENTITIES": ["METRIC=Professional Visualization,ORG=Pixar,ORG=Adjusted,ORG=Apple,ORG=Autodesk,CHG=Atlas,MISC=OpenUSD"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	SCBQ*** Automotive.	{"ENTITIES": ["METRIC=Automotive"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Automotive. -%%%-  Second-quarter revenue was $253 million, down 15% from the previous quarter and up 15% from a year ago.	{"ENTITIES": ["METRIC=Automotive,CALENDAR=Second-quarter,METRIC=revenue,MONEY=$253 million,CHG=down,PCT=15%,CALENDAR=last quarter,CHG=up,PCT=15%,CALENDAR=year ago"], "RELATIONS": ["KEY:Automotive REVENUE!!TYPE:INPUT!!MONEY:$253 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q2!!YEAR:2024"]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Automotive. -%%%-  Announced that NVIDIA DRIVE Orin™ is powering the new XPENG G6 Coupe SUV ’s intelligent advanced driver assistance system.	{"ENTITIES": ["METRIC=Automotive,CHG=Announced,ORG=NVIDIA DRIVE OrinTM,MISC=XPENG,MISC=G6 Coupe SUV's,MISC=automatic driver assistance"], "RELATIONS": [""]}
+
+NVDA_2023-08-23_EP_YH	Q2 2024 Earning Report -%%%- PG*** Automotive. -%%%-  Partnered with MediaTek , which will develop mainstream automotive systems on chips for global OEMs, which integrate new NVIDIA GPU chiplet IP for AI and graphics.	{"ENTITIES": ["METRIC=Automotive,CHG=Partnerd,ORG=MediaTek,METRIC=global,MISC=NVIDIA GPU chiplet IP,MISC=AI"], "RELATIONS": [""]}
+

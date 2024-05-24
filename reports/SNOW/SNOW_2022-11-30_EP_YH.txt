@@ -1,0 +1,299 @@
+filename	Sentence1	Sentence2
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- GAAP Net Loss Per Share is $(0.63) in third quarter 2023 @@@	{"ENTITIES": ["METRIC=GAAP Net Loss Per Share,MONEY=$(0.63),CALENDAR=third quarter,YEAR=2023"], "RELATIONS": ["KEY:GAAP net income per share!!TYPE:OUT!!MONEY:-$0.63!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Cash And Cash Equivalents is $819003 T in third quarter 2023 @@@	{"ENTITIES": ["METRIC=Cash,METRIC=Cash Equivalents,MONEY=$819003 T,CALENDAR=third quarter,YEAR=2023"], "RELATIONS": ["KEY:CASH AND EQUIVALENTS!!TYPE:OUT!!MONEY:$819003 T!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- GAAP Gross Profit is $366307 T in third quarter 2023 @@@	{"ENTITIES": ["METRIC=GAAP,METRIC=Gross Profit,MONEY=$366307 T,CALENDAR=third quarter,YEAR=2023"], "RELATIONS": ["KEY:GAAP GROSS PROFIT!!TYPE:OUT!!MONEY:$366307 T!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- GAAP Gross Margin is 65.76% in third quarter 2023 @@@	{"ENTITIES": ["METRIC=GAAP,METRIC=Gross Margin,PCT=65.76%,CALENDAR=third quarter"], "RELATIONS": ["KEY:GAAP GROSS MARGIN!!TYPE:OUT!!PCT:65.76%!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Product revenue of $522.8 million in the third quarter, representing 67% year-over-year growth.	{"ENTITIES": ["METRIC=Product revenue,MONEY=$522.8 million,CALENDAR=third quarter,PCT=67%,CALENDAR=year-over-year,CHG=growth"], "RELATIONS": ["KEY:GAAP PRODUCT REVENUE!!TYPE:INPUT!!MONEY:$522.8 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Remaining performance obligations of $3.0 billion, representing 66% year-over-year growth.	{"ENTITIES": ["METRIC=Remaining performance obligations,MONEY=$3.0 billion,PCT=66%,CALENDAR=year-over-year,CHG=growth"], "RELATIONS": ["KEY:REMAINING PERFORMANCE OBLIGATIONS!!TYPE:INPUT!!MONEY:$3.0 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** 7,292 total customers.	{"ENTITIES": ["CD=7292,METRIC=customers"], "RELATIONS": ["KEY:customers!!TYPE:INPUT!!CD:7292!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Net revenue retention rate of 165%.	{"ENTITIES": ["METRIC=Net revenue retention,PCT=165%"], "RELATIONS": ["KEY:Net revenue retention rate!!TYPE:INPUT!!PCT:165.0%!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** 287 customers with trailing 12-month product revenue greater than $1 million.	{"ENTITIES": ["CD=287,METRIC=customers with trailing 12-month product revenue greater than $1 million"], "RELATIONS": ["KEY:customers with trailing 12-month product revenue greater than $1 million!!TYPE:INPUT!!CD:287!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** No-Headquarters/BOZEMAN, Mont., November 30, 2022--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its third quarter of fiscal 2023, ended October 31, 2022.	{"ENTITIES": ["LOC=BOZEMAN,LOC=Mont.,DATE=November 30 2022,SYM=SNOW,MISC=Data Cloud,CHG=announced,CALENDAR=third quarter,YEAR=2023,DATE=October 31 2022"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** This press release features multimedia.	{"ENTITIES": ["FC=expect"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- View the full release here: https://www.businesswire.com/news/home/20221130005425/en/.	{"ENTITIES": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Snowflake Q3 FY23 Infographic (Graphic: Snowflake).	{"ENTITIES": ["ORG=Snowflake,CALENDAR=Q3,YEAR=YEAR23"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Revenue for the quarter was $557.0 million, representing 67% year-over-year growth.	{"ENTITIES": ["METRIC=Revenue,MONEY=$557.0 million,PCT=67%,CALENDAR=year-over-year,CHG=growth"], "RELATIONS": ["KEY:REVENUE!!TYPE:OUT!!MONEY:$557.0 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Product revenue for the quarter was $522.8 million, representing 67% year-over-year growth.	{"ENTITIES": ["METRIC=Product revenue,MONEY=$522.8 million,PCT=67%,CALENDAR=year-over-year,CHG=growth"], "RELATIONS": ["KEY:GAAP PRODUCT REVENUE!!TYPE:INPUT!!MONEY:$522.8 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Remaining performance obligations were $3.0 billion, representing 66% year-over-year growth.	{"ENTITIES": ["METRIC=Remaining performance obligations,MONEY=$3.0 billion,PCT=66%,CALENDAR=year-over-year,CHG=growth"], "RELATIONS": ["KEY:REMAINING PERFORMANCE OBLIGATIONS!!TYPE:INPUT!!MONEY:$3.0 BN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Net revenue retention rate was 165% as of October 31, 2022.	{"ENTITIES": ["METRIC=Net revenue retention,PCT=165%,DATE=October 31 2022"], "RELATIONS": ["KEY:Net revenue retention rate!!TYPE:INPUT!!PCT:165.0%!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The company now has 7,292 total customers and 287 customers with trailing 12-month product revenue greater than $1 million.	{"ENTITIES": ["CD=7292,METRIC=customers,CD=287,METRIC=customers with trailing 12-month product revenue greater than $1 million"], "RELATIONS": ["KEY:customers!!TYPE:INPUT!!CD:7292!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023", "KEY:customers with trailing 12-month product revenue greater than $1 million!!TYPE:INPUT!!CD:287!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- See the section titled "Key Business Metrics" for definitions of product revenue, remaining performance obligations, net revenue retention rate, total customers, and customers with trailing 12-month product revenue greater than $1 million.	{"ENTITIES": ["METRIC=product revenue,METRIC=remaining performance obligations,METRIC=net revenue retention,METRIC=customers,METRIC=customers with trailing 12-month product revenue greater than $1 million"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	CS*** "During Q3, product revenue grew 67% year-over-year to $523 million.	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	CS*** Our non-GAAP product gross margin came in at 75%, and we continue to drive strong growth at scale, coupled with strength in unit economics, operating profit, and free cash flow," said Frank Slootman, Chairman and CEO, Snowflake. "	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	CS*** Snowflake’s Data Cloud maximizes the power and promise of data science and artificial intelligence, a high priority in the modern enterprise.".	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	SCHQ*** Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:.	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%-  The following table summarizes our financial results for the third quarter of fiscal 2023:.	{"ENTITIES": ["CALENDAR=third quarter,YEAR=2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- 	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Story continues.	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLST***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Product Revenue in GAAP Third Quarter Fiscal 2023 Results Amount(millions) is $522.8 MN .	{"ENTITIES": ["METRIC=Product Revenue,METRIC=GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$522.8 MN"], "RELATIONS": ["KEY:GAAP PRODUCT REVENUE!!TYPE:INPUT!!MONEY:$522.8 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Product Revenue in GAAP Third Quarter Fiscal 2023 Results Year/year Growth is 67% .	{"ENTITIES": ["METRIC=Product Revenue,METRIC=GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,CHG=Growth,PCT=67%"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLET***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	TBLST***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Product Gross Profit in GAAP Amount(millions) Third Quarter Fiscal 2023 Results is $376.8 MN .	{"ENTITIES": ["METRIC=Product Gross Profit,METRIC=GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$376.8 MN"], "RELATIONS": ["KEY:GAAP PRODUCT GROSS PROFIT!!TYPE:OUT!!MONEY:$376.8 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Product Gross Profit in GAAP Margin Third Quarter Fiscal 2023 Results is 72% .	{"ENTITIES": ["METRIC=Product Gross Profit,METRIC=GAAP,METRIC=Margin,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,PCT=72%"], "RELATIONS": ["KEY:GAAP PRODUCT GROSS PROFIT MARGIN!!TYPE:OUT!!PCT:72.0%!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Product Gross Profit in Non-GAAP Amount(millions) Third Quarter Fiscal 2023 Results is $393.9 MN .	{"ENTITIES": ["METRIC=Product Gross Profit,METRIC=Non-GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$393.9 MN"], "RELATIONS": ["KEY:NON-GAAP PRODUCT GROSS PROFIT!!TYPE:OUT!!MONEY:$393.9 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Product Gross Profit in Non-GAAP Margin Third Quarter Fiscal 2023 Results is 75% .	{"ENTITIES": ["METRIC=Product Gross Profit,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,PCT=75%"], "RELATIONS": ["KEY:NON-GAAP PRODUCT GROSS PROFIT MARGIN!!TYPE:OUT!!PCT:75.0%!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Operating Income (loss) in GAAP Amount(millions) Third Quarter Fiscal 2023 Results is ($206.0) MN .	{"ENTITIES": ["METRIC=Operating Income,METRIC=GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=($206.0) MN"], "RELATIONS": ["KEY:GAAP OPERATING INCOME!!TYPE:OUT!!MONEY:-$206.0 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Operating Income (loss) in GAAP Margin Third Quarter Fiscal 2023 Results is (37%) .	{"ENTITIES": ["METRIC=Operating Income,METRIC=GAAP,METRIC=Margin,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,PCT=(37%)"], "RELATIONS": ["KEY:GAAP OPERATING INCOME MARGIN!!TYPE:OUT!!PCT:(37.0%)!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Operating Income (loss) in Non-GAAP Amount(millions) Third Quarter Fiscal 2023 Results is $43.4 MN .	{"ENTITIES": ["METRIC=Operating Income,METRIC=Non-GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$43.4 MN"], "RELATIONS": ["KEY:NON-GAAP OPERATING INCOME!!TYPE:OUT!!MONEY:$43.4 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Operating Income (loss) in Non-GAAP Margin Third Quarter Fiscal 2023 Results is 8% .	{"ENTITIES": ["METRIC=Operating Income,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,PCT=8%"], "RELATIONS": ["KEY:NON-GAAP OPERATING INCOME MARGIN!!TYPE:OUT!!PCT:8.0%!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Net Cash Provided By Operating Activities in GAAP Amount(millions) Third Quarter Fiscal 2023 Results is $79.3 MN .	{"ENTITIES": ["METRIC=Net Cash Provided By Operating Activities,METRIC=GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$79.3 MN"], "RELATIONS": ["KEY:Net Cash Provided By Operating Activities!!TYPE:OUT!!MONEY:$79.3 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Free Cash Flow in Non-GAAP Amount(millions) Third Quarter Fiscal 2023 Results is $65.0 MN .	{"ENTITIES": ["METRIC=Free Cash Flow,METRIC=Non-GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$65.0 MN"], "RELATIONS": ["KEY:NON-GAAP FREE CASH FLOW!!TYPE:OUT!!MONEY:$65.0 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Free Cash Flow in Non-GAAP Margin Third Quarter Fiscal 2023 Results is 12% .	{"ENTITIES": ["METRIC=Free Cash Flow,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,PCT=12%"], "RELATIONS": ["KEY:NON-GAAP FREE CASH FLOW MARGIN!!TYPE:OUT!!PCT:12.0%!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Adjusted Free Cash Flow in Non-GAAP Amount(millions) Third Quarter Fiscal 2023 Results is $65.0 MN .	{"ENTITIES": ["METRIC=Adjusted Free Cash Flow,METRIC=Non-GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$65.0 MN"], "RELATIONS": ["KEY:NON-GAAP ADJUSTED FREE CASH FLOW!!TYPE:OUT!!MONEY:$65.0 MN!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Adjusted Free Cash Flow in Non-GAAP Margin Third Quarter Fiscal 2023 Results is 12% .	{"ENTITIES": ["METRIC=Adjusted Free Cash Flow,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,PCT=12%"], "RELATIONS": ["KEY:NON-GAAP ADJUSTED FREE CASH FLOW MARGIN!!TYPE:OUT!!PCT:12.0%!!LINK:KV!!SECTION:REGULAR!!QTR:Q3!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures, And The Table Titled "gaap To Non-GAAP Reconciliations" For A Reconciliation Of GAAP To Non-GAAP Financial Measures.note Fiscal Year Ends January .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP,METRIC=gaap,METRIC=Non-GAAP,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Numbers Are Rounded For Presentation Purposes.	{"ENTITIES": ["METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- in GAAP Amount(millions) Third Quarter Fiscal 2023 Results is $(1) We report non-GAAP financial measures in addition to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$(1),METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures and the table titled "GAAP to  Non-GAAP Reconciliations" for a reconciliation of GAAP to  non-GAAP financial measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=GAAP,METRIC=Non-GAAP,METRIC=GAAP,METRIC=non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Note: Fiscal year ends January 31.	{"ENTITIES": ["DATE=January 31"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Numbers are rounded for presentation purposes.	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- MN .	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures, And The Table Titled "gaap To Non-GAAP Reconciliations" For A Reconciliation Of GAAP To Non-GAAP Financial Measures.note Fiscal Year Ends January .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP,METRIC=gaap,METRIC=Non-GAAP,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Numbers Are Rounded For Presentation Purposes.	{"ENTITIES": ["METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- in GAAP Margin Third Quarter Fiscal 2023 Results is (1) We report non-GAAP financial measures in addition% to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=GAAP,METRIC=Margin,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures and the table titled "GAAP to  Non-GAAP Reconciliations" for a reconciliation of GAAP to  non-GAAP financial measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=GAAP,METRIC=Non-GAAP,METRIC=GAAP,METRIC=non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Note: Fiscal year ends January 31.	{"ENTITIES": ["DATE=January 31"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Numbers are rounded for presentation purposes.% .	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures, And The Table Titled "gaap To Non-GAAP Reconciliations" For A Reconciliation Of GAAP To Non-GAAP Financial Measures.note Fiscal Year Ends January .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP,METRIC=gaap,METRIC=Non-GAAP,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Numbers Are Rounded For Presentation Purposes.	{"ENTITIES": ["METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- in Non-GAAP Amount(millions) Third Quarter Fiscal 2023 Results is $(1) We report non-GAAP financial measures in addition to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,MONEY=$(1),METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures and the table titled "GAAP to  Non-GAAP Reconciliations" for a reconciliation of GAAP to  non-GAAP financial measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=GAAP,METRIC=Non-GAAP,METRIC=GAAP,METRIC=non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Note: Fiscal year ends January 31.	{"ENTITIES": ["DATE=January 31"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Numbers are rounded for presentation purposes.	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- MN .	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures, And The Table Titled "gaap To Non-GAAP Reconciliations" For A Reconciliation Of GAAP To Non-GAAP Financial Measures.note Fiscal Year Ends January .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP,METRIC=gaap,METRIC=Non-GAAP,METRIC=GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Numbers Are Rounded For Presentation Purposes.	{"ENTITIES": ["METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- in Non-GAAP Margin Third Quarter Fiscal 2023 Results is (1) We report non-GAAP financial measures in addition% to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Third Quarter,CALENDAR=Fiscal 2023,METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures and the table titled "GAAP to  Non-GAAP Reconciliations" for a reconciliation of GAAP to  non-GAAP financial measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=GAAP,METRIC=Non-GAAP,METRIC=GAAP,METRIC=non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Note: Fiscal year ends January 31.	{"ENTITIES": ["DATE=January 31"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- Third Quarter Fiscal 2023 GAAP and Non-GAAP Results:. -%%%- Numbers are rounded for presentation purposes.% .	{"ENTITIES": ["CALENDAR=Third Quarter,YEAR=2023,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLET***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	SCG*** Financial Outlook:.	{"ENTITIES": ["FC=Outlook"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** Financial Outlook:. -%%%-  Our guidance includes GAAP and non-GAAP financial measures.	{"ENTITIES": ["FC=guidance,METRIC=GAAP,METRIC=non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	GQ*** The following table summarizes our guidance for the fourth quarter of fiscal 2023:.	{"ENTITIES": ["FC=guidance,CALENDAR=fourth quarter,YEAR=2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLST***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- Product Revenue in GAAP Fourth Quarter Fiscal 2023 Guidance Amount(millions) is $535 - $540 MN .	{"ENTITIES": ["METRIC=Product Revenue,METRIC=GAAP,CALENDAR=Fourth Quarter,CALENDAR=Fiscal 2023,FC=Guidance,MONEY=$535,MONEY=$540 MN"], "RELATIONS": ["KEY:GAAP PRODUCT REVENUE!!TYPE:INPUT!!MONEY:$535.0 MN!!MONEY:$540 MN!!LINK:KVRANGE!!SECTION:GUIDE!!QTR:Q4!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- Product Revenue in GAAP Fourth Quarter Fiscal 2023 Guidance Year/year Growth is 49% - 50% .	{"ENTITIES": ["METRIC=Product Revenue,METRIC=GAAP,CALENDAR=Fourth Quarter,CALENDAR=Fiscal 2023,FC=Guidance,PCT=49%,PCT=50%"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLET***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	TBLST***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- Operating Income in Non-GAAP Margin Fourth Quarter Fiscal 2023 Guidance is 1% .	{"ENTITIES": ["METRIC=Operating Income,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Fourth Quarter,CALENDAR=Fiscal 2023,FC=Guidance,PCT=1%"], "RELATIONS": ["KEY:NON-GAAP OPERATING INCOME MARGIN!!TYPE:OUT!!PCT:1.0%!!LINK:KV!!SECTION:GUIDE!!QTR:Q4!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted in Non-GAAP Fourth Quarter Fiscal 2023 Guidance is 360 MN.	{"ENTITIES": ["METRIC=Shares Used,METRIC=Net Income Per Share,ORG=Snowflake Inc.,METRIC=Non-GAAP,CALENDAR=Fourth Quarter,CALENDAR=Fiscal 2023,FC=Guidance,CD=360 MN"], "RELATIONS": ["KEY:Non-GAAP Weighted Average Shares!!TYPE:OUT!!CD:360 MN!!LINK:KV!!SECTION:GUIDE!!QTR:Q4!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- We May Have A Non-GAAP Net Income Attributable To Snowflake Inc. For The Fourth Quarter Of Fiscal .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Net Income,ORG=Snowflake Inc.,CALENDAR=Fourth Quarter"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- As A Result, We Are Presenting The Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted In The Non-GAAP Column Of The Table Above, Giving Effect To All Potentially Dilutive Securities (stock Options, Restricted Stock Units, And Employee Stock Purchase Rights Under Our Employee Stock Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- These Potentially Dilutive Securities Would Be Excluded From The Weighted-average Shares Used In Computing Net Loss Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted If We Have A Non-GAAP Net Loss Attributable To Snowflake Inc. in GAAP Fourth Quarter Fiscal 2023 Guidance is (1) We report non-GAAP financial measures in addition MN to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=Shares Used,METRIC=Net Loss Per Share,ORG=Snowflake,METRIC=Non-GAAP,METRIC=Net Loss,ORG=Snowflake,METRIC=GAAP,CALENDAR=Fourth Quarter,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures.(2) We may have a non-GAAP net income attributable to  Snowflake Inc. for the fourth quarter of fiscal 2023.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=non-GAAP,METRIC=net income,ORG=Snowflake,CALENDAR=fourth quarter,CALENDAR=fiscal 2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- As a result we are presenting the weighted-average shares used in computing net income per share attributable to  Snowflake Inc. common sto ckholders - diluted in the non-GAAP column of the table above giving effect to all potentially dilutive securities (s MN to ck options restricted s MN to ck units and employee s MN to ck purchase rights under our 2020 Employee S MN to ck Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- These potentially dilutive securities would be excluded from the weighted-average shares used in computing net loss per share attributable MN to Snowflake Inc. common s MN to ckholders - diluted if we have a non-GAAP net loss attributable MN to Snowflake Inc. MN  .	{"ENTITIES": ["ORG=Snowflake,ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- We May Have A Non-GAAP Net Income Attributable To Snowflake Inc. For The Fourth Quarter Of Fiscal .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Net Income,ORG=Snowflake Inc.,CALENDAR=Fourth Quarter"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- As A Result, We Are Presenting The Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted In The Non-GAAP Column Of The Table Above, Giving Effect To All Potentially Dilutive Securities (stock Options, Restricted Stock Units, And Employee Stock Purchase Rights Under Our Employee Stock Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- These Potentially Dilutive Securities Would Be Excluded From The Weighted-average Shares Used In Computing Net Loss Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted If We Have A Non-GAAP Net Loss Attributable To Snowflake Inc. in Non-GAAP Fourth Quarter Fiscal 2023 Guidance is (1) We report non-GAAP financial measures in addition MN to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=Shares Used,METRIC=Net Loss Per Share,ORG=Snowflake,METRIC=Non-GAAP,METRIC=Net Loss,ORG=Snowflake,METRIC=Non-GAAP,CALENDAR=Fourth Quarter,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures.(2) We may have a non-GAAP net income attributable to  Snowflake Inc. for the fourth quarter of fiscal 2023.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=non-GAAP,METRIC=net income,ORG=Snowflake,CALENDAR=fourth quarter,CALENDAR=fiscal 2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- As a result we are presenting the weighted-average shares used in computing net income per share attributable to  Snowflake Inc. common sto ckholders - diluted in the non-GAAP column of the table above giving effect to all potentially dilutive securities (s MN to ck options restricted s MN to ck units and employee s MN to ck purchase rights under our 2020 Employee S MN to ck Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- These potentially dilutive securities would be excluded from the weighted-average shares used in computing net loss per share attributable MN to Snowflake Inc. common s MN to ckholders - diluted if we have a non-GAAP net loss attributable MN to Snowflake Inc. MN  .	{"ENTITIES": ["ORG=Snowflake,ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- We May Have A Non-GAAP Net Income Attributable To Snowflake Inc. For The Fourth Quarter Of Fiscal .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Net Income,ORG=Snowflake Inc.,CALENDAR=Fourth Quarter"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- As A Result, We Are Presenting The Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted In The Non-GAAP Column Of The Table Above, Giving Effect To All Potentially Dilutive Securities (stock Options, Restricted Stock Units, And Employee Stock Purchase Rights Under Our Employee Stock Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- These Potentially Dilutive Securities Would Be Excluded From The Weighted-average Shares Used In Computing Net Loss Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted If We Have A Non-GAAP Net Loss Attributable To Snowflake Inc. in Non-GAAP Margin Fourth Quarter Fiscal 2023 Guidance is (1) We report non-GAAP financial measures in addition MN % to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=Shares Used,METRIC=Net Loss Per Share,ORG=Snowflake,METRIC=Non-GAAP,METRIC=Net Loss,ORG=Snowflake,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Fourth Quarter,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures.(2) We may have a non-GAAP net income attributable to  Snowflake Inc. for the fourth quarter of fiscal 2023.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=non-GAAP,METRIC=net income,ORG=Snowflake,CALENDAR=fourth quarter,CALENDAR=fiscal 2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- As a result we are presenting the weighted-average shares used in computing net income per share attributable to  Snowflake Inc. common sto ckholders - diluted in the non-GAAP column of the table above giving effect to all potentially dilutive securities (s MN to ck options restricted s MN to ck units and employee s MN to ck purchase rights under our 2020 Employee S MN to ck Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the fourth quarter of fiscal 2023:. -%%%- These potentially dilutive securities would be excluded from the weighted-average shares used in computing net loss per share attributable MN to Snowflake Inc. common s MN to ckholders - diluted if we have a non-GAAP net loss attributable MN to Snowflake Inc.% MN  .	{"ENTITIES": ["ORG=Snowflake,ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLET***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	GF*** The following table summarizes our guidance for the full-year fiscal 2023:.	{"ENTITIES": ["FC=guidance,CALENDAR=full-year,YEAR=2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLST***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- Product Revenue in GAAP Full-year Fiscal 2023 Guidance Amount(millions) is $1919 - $1924 MN .	{"ENTITIES": ["METRIC=Product Revenue,METRIC=GAAP,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,MONEY=$1919,MONEY=$1924 MN"], "RELATIONS": ["KEY:GAAP PRODUCT REVENUE!!TYPE:INPUT!!MONEY:$1919 MN!!MONEY:$1924 MN!!LINK:KVRANGE!!SECTION:GUIDEFULL!!QTR:ALL!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- Product Revenue in GAAP Full-year Fiscal 2023 Guidance Year/year Growth is 68% - 69% .	{"ENTITIES": ["METRIC=Product Revenue,METRIC=GAAP,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,PCT=66%,PCT=67%"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLET***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	TBLST***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- Product Gross Profit in Non-GAAP Margin Full-year Fiscal 2023 Guidance is 75% .	{"ENTITIES": ["METRIC=Product Gross Profit,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,PCT=75%"], "RELATIONS": ["KEY:NON-GAAP PRODUCT GROSS PROFIT MARGIN!!TYPE:OUT!!PCT:75.0%!!LINK:KV!!SECTION:GUIDEFULL!!QTR:ALL!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- Operating Income in Non-GAAP Margin Full-year Fiscal 2023 Guidance is 3% .	{"ENTITIES": ["METRIC=Operating Income,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,PCT=3%"], "RELATIONS": ["KEY:NON-GAAP OPERATING INCOME MARGIN!!TYPE:OUT!!PCT:3.0%!!LINK:KV!!SECTION:GUIDEFULL!!QTR:ALL!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- Adjusted Free Cash Flow in Non-GAAP Margin Full-year Fiscal 2023 Guidance is 21% .	{"ENTITIES": ["METRIC=Adjusted Free Cash Flow,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,PCT=21%"], "RELATIONS": ["KEY:NON-GAAP ADJUSTED FREE CASH FLOW MARGIN!!TYPE:OUT!!PCT:21.0%!!LINK:KV!!SECTION:GUIDEFULL!!QTR:ALL!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted in Non-GAAP Full-year Fiscal 2023 Guidance is 359 MN.	{"ENTITIES": ["METRIC=Shares Used,METRIC=Net Income Per Share,ORG=Snowflake Inc.,METRIC=Non-GAAP,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,CD=359 MN"], "RELATIONS": ["KEY:Non-GAAP Weighted Average Shares!!TYPE:OUT!!CD:359 MN!!LINK:KV!!SECTION:GUIDEFULL!!QTR:ALL!!YEAR:2023"]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- We May Have A Non-GAAP Net Income Attributable To Snowflake Inc. For Full-year Fiscal .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Net Income,ORG=Snowflake Inc.,CALENDAR=Full-year"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- As A Result, We Are Presenting The Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted In The Non-GAAP Column Of The Table Above, Giving Effect To All Potentially Dilutive Securities (stock Options, Restricted Stock Units, And Employee Stock Purchase Rights Under Our Employee Stock Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- These Potentially Dilutive Securities Would Be Excluded From The Weighted-average Shares Used In Computing Net Loss Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted If We Have A Non-GAAP Net Loss Attributable To Snowflake Inc. in GAAP Full-year Fiscal 2023 Guidance is (1) We report non-GAAP financial measures in addition MN to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=Shares Used,METRIC=Net Loss Per Share,ORG=Snowflake,METRIC=Non-GAAP,METRIC=Net Loss,ORG=Snowflake,METRIC=GAAP,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures.(2) We may have a non-GAAP net income attributable to  Snowflake Inc. for full-year fiscal 2023.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=non-GAAP,METRIC=net income,ORG=Snowflake,CALENDAR=full-year,CALENDAR=fiscal 2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- As a result we are presenting the weighted-average shares used in computing net income per share attributable to  Snowflake Inc. common sto ckholders - diluted in the non-GAAP column of the table above giving effect to all potentially dilutive securities (s MN to ck options restricted s MN to ck units and employee s MN to ck purchase rights under our 2020 Employee S MN to ck Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- These potentially dilutive securities would be excluded from the weighted-average shares used in computing net loss per share attributable MN to Snowflake Inc. common s MN to ckholders - diluted if we have a non-GAAP net loss attributable MN to Snowflake Inc. MN  .	{"ENTITIES": ["ORG=Snowflake,ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- We May Have A Non-GAAP Net Income Attributable To Snowflake Inc. For Full-year Fiscal .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Net Income,ORG=Snowflake Inc.,CALENDAR=Full-year"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- As A Result, We Are Presenting The Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted In The Non-GAAP Column Of The Table Above, Giving Effect To All Potentially Dilutive Securities (stock Options, Restricted Stock Units, And Employee Stock Purchase Rights Under Our Employee Stock Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- These Potentially Dilutive Securities Would Be Excluded From The Weighted-average Shares Used In Computing Net Loss Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted If We Have A Non-GAAP Net Loss Attributable To Snowflake Inc. in Non-GAAP Full-year Fiscal 2023 Guidance is (1) We report non-GAAP financial measures in addition MN to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=Shares Used,METRIC=Net Loss Per Share,ORG=Snowflake,METRIC=Non-GAAP,METRIC=Net Loss,ORG=Snowflake,METRIC=Non-GAAP,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures.(2) We may have a non-GAAP net income attributable to  Snowflake Inc. for full-year fiscal 2023.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=non-GAAP,METRIC=net income,ORG=Snowflake,CALENDAR=full-year,CALENDAR=fiscal 2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- As a result we are presenting the weighted-average shares used in computing net income per share attributable to  Snowflake Inc. common sto ckholders - diluted in the non-GAAP column of the table above giving effect to all potentially dilutive securities (s MN to ck options restricted s MN to ck units and employee s MN to ck purchase rights under our 2020 Employee S MN to ck Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- These potentially dilutive securities would be excluded from the weighted-average shares used in computing net loss per share attributable MN to Snowflake Inc. common s MN to ckholders - diluted if we have a non-GAAP net loss attributable MN to Snowflake Inc. MN  .	{"ENTITIES": ["ORG=Snowflake,ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- We May Have A Non-GAAP Net Income Attributable To Snowflake Inc. For Full-year Fiscal .	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=Net Income,ORG=Snowflake Inc.,CALENDAR=Full-year"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- As A Result, We Are Presenting The Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted In The Non-GAAP Column Of The Table Above, Giving Effect To All Potentially Dilutive Securities (stock Options, Restricted Stock Units, And Employee Stock Purchase Rights Under Our Employee Stock Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- These Potentially Dilutive Securities Would Be Excluded From The Weighted-average Shares Used In Computing Net Loss Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted If We Have A Non-GAAP Net Loss Attributable To Snowflake Inc. in Non-GAAP Margin Full-year Fiscal 2023 Guidance is (1) We report non-GAAP financial measures in addition MN % to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP.	{"ENTITIES": ["METRIC=Shares Used,METRIC=Net Loss Per Share,ORG=Snowflake,METRIC=Non-GAAP,METRIC=Net Loss,ORG=Snowflake,METRIC=Non-GAAP,METRIC=Margin,CALENDAR=Full-year,CALENDAR=Fiscal 2023,FC=Guidance,METRIC=non-GAAP,METRIC=GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures.(2) We may have a non-GAAP net income attributable to  Snowflake Inc. for full-year fiscal 2023.	{"ENTITIES": ["METRIC=Non-GAAP,METRIC=non-GAAP,METRIC=non-GAAP,METRIC=net income,ORG=Snowflake,CALENDAR=full-year,CALENDAR=fiscal 2023"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- As a result we are presenting the weighted-average shares used in computing net income per share attributable to  Snowflake Inc. common sto ckholders - diluted in the non-GAAP column of the table above giving effect to all potentially dilutive securities (s MN to ck options restricted s MN to ck units and employee s MN to ck purchase rights under our 2020 Employee S MN to ck Purchase Plan).	{"ENTITIES": ["ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- These potentially dilutive securities would be excluded from the weighted-average shares used in computing net loss per share attributable MN to Snowflake Inc. common s MN to ckholders - diluted if we have a non-GAAP net loss attributable MN to Snowflake Inc.% MN  .	{"ENTITIES": ["ORG=Snowflake,ORG=Snowflake"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	TBLET***  .	NO PREDICTION
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** The following table summarizes our guidance for the full-year fiscal 2023:. -%%%-  A reconciliation of non-GAAP guidance measures to corresponding GAAP guidance measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, expenses that may be incurred in the future.	{"ENTITIES": ["METRIC=non-GAAP,FC=guidance,METRIC=GAAP,FC=guidance,CHG=uncertainty"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- Stock-based compensation-related charges, including employer payroll tax-related items on employee stock transactions, are impacted by the timing of employee stock transactions, the future fair market value of our common stock, and our future hiring and retention needs, all of which are difficult to predict and subject to constant change.	{"ENTITIES": ["METRIC=Stock-based compensation-related charges,METRIC=stock transactions,METRIC=stock"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- We have provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for our historical non-GAAP financial results included in this release.	{"ENTITIES": ["METRIC=GAAP,METRIC=non-GAAP,METRIC=non-GAAP"], "RELATIONS": [""]}
+
+SNOW_2022-11-30_EP_YH	Q3 2023 Earning Report -%%%- PG*** The following table summarizes our guidance for the full-year fiscal 2023:. -%%%- Our fiscal year ends January 31, and numbers are rounded for presentation purposes.	{"ENTITIES": ["DATE=January 31"], "RELATIONS": [""]}
+
