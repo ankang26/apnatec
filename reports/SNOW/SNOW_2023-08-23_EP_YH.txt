@@ -1,4 +1,3 @@
-https://finance.yahoo.com/news/snowflake-reports-financial-results-second-200500123.html
 GAAP Net Loss Per Share is $(0.69) in second quarter 2024 @@@
 Cash And Cash Equivalents is $755192 T in second quarter 2024 @@@
 GAAP Gross Profit is $455626 T in second quarter 2024 @@@
@@ -7,41 +6,21 @@ GAAP Free Cash Flow is $76.9MN in second quarter 2024 @@@
 GAAP Free Cash Flow Margin is 11.41% in second quarter 2024 @@@
 
 
-PG*** Product revenue of $640.2 million in the second quarter, representing 37% year-over-year growth.
+PG*** Product revenue of $640.2 million in the second quarter, representing 37% year-over-year growth. 402 customers with trailing 12-month product revenue greater than $1 million. Net revenue retention rate of 142%. 639 Forbes Global 2000 customers. Remaining performance obligations of $3.5 billion, representing 30% year-over-year growth.
 
-PG*** 402 customers with trailing 12-month product revenue greater than $1 million.
-
-PG*** Net revenue retention rate of 142%.
-
-PG*** 639 Forbes Global 2000 customers.
-
-PG*** Remaining performance obligations of $3.5 billion, representing 30% year-over-year growth.
-
-PG*** No-Headquarters/BOZEMAN, Mont., August 23, 2023--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its second quarter of fiscal 2024, ended July 31, 2023.
-
-PG*** This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230823731800/en/.
-
-PG*** 
-PG*** Snowflake Q2 FY24 Infographic (Graphic: Snowflake).
+PG*** No-Headquarters/BOZEMAN, Mont., August 23, 2023--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its second quarter of fiscal 2024, ended July 31, 2023. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230823731800/en/. Snowflake Q2 FY24 Infographic (Graphic: Snowflake).
 
 PG*** Revenue for the quarter was $674.0 million, representing 36% year-over-year growth. Product revenue for the quarter was $640.2 million, representing 37% year-over-year growth. The company now has 402 customers with trailing 12-month product revenue greater than $1 million and 639 Forbes Global 2000 customers, representing 62% and 17% year-over-year growth, respectively. Net revenue retention rate was 142% as of July 31, 2023. Remaining performance obligations were $3.5 billion, representing 30% year-over-year growth. Net cash provided by operating activities was $83.2 million, representing 29% year-over-year growth. See the section titled "Key Business Metrics" for definitions of product revenue, customers with trailing 12-month product revenue greater than $1 million, net revenue retention rate, Forbes Global 2000 customers, and remaining performance obligations.
 
 CS*** "During Q2, product revenue grew 37% year-over-year to $640 million. Our non-GAAP adjusted free cash flow was $88 million, representing 50% year-over-year growth," said Frank Slootman, Chairman and CEO, Snowflake. "Snowflake as the global epicenter of trusted enterprise data is well positioned to enable the growing interest in AI/ML. Enterprises and institutions alike are increasingly aware they cannot have an AI strategy without a data strategy.".
-
-PG*** Story continues.
 
 
 SCHQ*** Second Quarter Fiscal 2024 GAAP and Non-GAAP Results:.
 
 PG*** The following table summarizes our financial results for the second quarter of fiscal 2024:.
 
-
-TBLST***  .
 Product Revenue in GAAP Second Quarter Fiscal 2024 Results Amount(millions) is $640.2 MN .
 Product Revenue in GAAP Second Quarter Fiscal 2024 Results Year/yeargrowth is 37% .
-TBLET***  .
-
-TBLST***  .
 Product Gross Profit in GAAP Amount(millions) Second Quarter Fiscal 2024 Results is $471.2 MN .
 Product Gross Profit in GAAP Margin Second Quarter Fiscal 2024 Results is 74% .
 Product Gross Profit in Non-GAAP Amount(millions) Second Quarter Fiscal 2024 Results is $498.8 MN .
@@ -55,14 +34,9 @@ Free Cash Flow in Non-GAAP Amount(millions) Second Quarter Fiscal 2024 Results i
 Free Cash Flow in Non-GAAP Margin Second Quarter Fiscal 2024 Results is 10% .
 Adjusted Free Cash Flow in Non-GAAP Amount(millions) Second Quarter Fiscal 2024 Results is $88.2 MN .
 Adjusted Free Cash Flow in Non-GAAP Margin Second Quarter Fiscal 2024 Results is 13% .
-TBLET***  .
 
 
-
-TBLST***  .
-PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures, and the table titled "GAAP  Non-GAAP Reconciliations" for a reconciliation of GAAP  Non-GAAP financial measures. .
-PG*** Note: Fiscal year ends January 31. Numbers are rounded for presentation purposes. .
-TBLET***  .
+PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures, and the table titled "GAAP  Non-GAAP Reconciliations" for a reconciliation of GAAP  Non-GAAP financial measures. Note: Fiscal year ends January 31. Numbers are rounded for presentation purposes.
 
 
 
@@ -70,50 +44,25 @@ SCG*** Financial Outlook:.
 
 PG*** Our guidance includes GAAP and non-GAAP financial measures.
 
-PG*** 
 GQ*** The following table summarizes our guidance for the third quarter of fiscal 2024:.
 
-
-TBLST***  .
 Product Revenue in GAAP Third Quarter Fiscal 2024 Guidance Amount(millions) is $670 - $675 MN .
 Product Revenue in GAAP Third Quarter Fiscal 2024 Guidance Year/yeargrowth is 28% - 29% .
-TBLET***  .
-
-TBLST***  .
 Operating Income in Non-GAAP Margin Third Quarter Fiscal 2024 Guidance is 4% .
-Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted in Non-GAAP Third Quarter Fiscal 2024 Guidance is 364 .
-TBLET***  .
+Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted in Non-GAAP Third Quarter Fiscal 2024 Guidance is 364 MN.
 
-
-
-TBLST***  .
-PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures. .
-PG*** (2)  The potential impact of future repurchases under our existing stock repurchase program is not reflected in our guidance for weighted - average shares used in computing net income per share attributable  Snowflake Inc. common stockholders - diluted due  the uncertainty regarding, and the potential variability of, the timing and amount of repurchases. .
-TBLET***  .
+PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures. The potential impact of future repurchases under our existing stock repurchase program is not reflected in our guidance for weighted - average shares used in computing net income per share attributable  Snowflake Inc. common stockholders - diluted due  the uncertainty regarding, and the potential variability of, the timing and amount of repurchases. .
 
 
 GF*** The following table summarizes our guidance for the full-year fiscal 2024:.
 
-
-TBLST***  .
 Product Revenue in GAAP Full-year Fiscal 2024 Guidance Amount(millions) is $2600 MN .
 Product Revenue in GAAP Full-year Fiscal 2024 Guidance Year/yeargrowth is 34% .
-TBLET***  .
-
-TBLST***  .
 Product Gross Profit in Non-GAAP Margin Full-year Fiscal 2024 Guidance is 76% .
 Operating Income in Non-GAAP Margin Full-year Fiscal 2024 Guidance is 5% .
 Adjusted Free Cash Flow in Non-GAAP Margin Full-year Fiscal 2024 Guidance is 26% .
-Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted in Non-GAAP Full-year Fiscal 2024 Guidance is 362 .
-TBLET***  .
+Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted in Non-GAAP Full-year Fiscal 2024 Guidance is 362 MN.
 
-
-
-TBLST***  .
-PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures. .
-PG*** (2)  The potential impact of future repurchases under our existing stock repurchase program is not reflected in our guidance for weighted - average shares used in computing net income per share attributable  Snowflake Inc. common stockholders - diluted due  the uncertainty regarding, and the potential variability of, the timing and amount of repurchases. .
-TBLET***  .
-
+PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures. The potential impact of future repurchases under our existing stock repurchase program is not reflected in our guidance for weighted - average shares used in computing net income per share attributable  Snowflake Inc. common stockholders - diluted due  the uncertainty regarding, and the potential variability of, the timing and amount of repurchases.
 
 PG*** A reconciliation of non-GAAP guidance measures to corresponding GAAP guidance measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, expenses that may be incurred in the future. Stock-based compensation-related charges, including employer payroll tax-related items on employee stock transactions, are impacted by the timing of employee stock transactions, the future fair market value of our common stock, and our future hiring and retention needs, all of which are difficult to predict and subject to constant change. We have provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for our historical non-GAAP financial results included in this release. Our fiscal year ends January 31, and numbers are rounded for presentation purposes.
-

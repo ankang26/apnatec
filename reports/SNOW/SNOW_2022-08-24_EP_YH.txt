@@ -1,28 +1,13 @@
-https://finance.yahoo.com/news/snowflake-reports-financial-results-second-200500048.html
 GAAP Net Loss Per Share is $(0.70) in second quarter 2023 @@@
 Cash And Cash Equivalents is $906663 T in second quarter 2023 @@@
 GAAP Gross Profit is $324016 T in second quarter 2023 @@@
 GAAP Gross Margin is 65.16% in second quarter 2023 @@@
 
 
-PG*** Product revenue of $466.3 million in the second quarter, representing 83% year-over-year growth.
+PG*** Product revenue of $466.3 million in the second quarter, representing 83% year-over-year growth. Remaining performance obligations of $2.7 billion, representing 78% year-over-year growth. 6,808 total customers. Net revenue retention rate of 171%. 246 customers with trailing 12-month product revenue greater than $1 million.
 
-PG*** Remaining performance obligations of $2.7 billion, representing 78% year-over-year growth.
-
-PG*** 6,808 total customers.
-
-PG*** Net revenue retention rate of 171%.
-
-PG*** 246 customers with trailing 12-month product revenue greater than $1 million.
-
-PG*** No-Headquarters/BOZEMAN, Mont., August 24, 2022--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its second quarter of fiscal 2023, ended July 31, 2022.
-
-PG*** This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20220824005221/en/.
-
-PG*** 
-PG*** Snowflake Q2 FY23 Infographic (Graphic: Snowflake).
-
-PG*** 
+PG*** No-Headquarters/BOZEMAN, Mont., August 24, 2022--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its second quarter of fiscal 2023, ended July 31, 2022. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20220824005221/en/. Snowflake Q2 FY23 Infographic (Graphic: Snowflake).
+ 
 PG*** Revenue for the quarter was $497.2 million, representing 83% year-over-year growth. Product revenue for the quarter was $466.3 million, representing 83% year-over-year growth. Remaining performance obligations were $2.7 billion, representing 78% year-over-year growth. Net revenue retention rate was 171% as of July 31, 2022. The company now has 6,808 total customers and 246 customers with trailing 12-month product revenue greater than $1 million. See the section titled "Key Business Metrics" for definitions of product revenue, remaining performance obligations, net revenue retention rate, total customers, and customers with trailing 12-month product revenue greater than $1 million.
 
 CS*** "During Q2, product revenue grew 83% year-over-year to $466 million dollars. Our non-GAAP product gross margin exceeded 75%, and we continue to generate non-GAAP operating income and free cash flow," said Frank Slootman, Chairman and CEO, Snowflake. "Snowflake’s next frontier of innovation is aimed at transforming how cloud applications are built, deployed, sold, and transacted. We look forward to executing against this growth opportunity.".
@@ -32,15 +17,8 @@ SCHQ*** Second Quarter Fiscal 2023 GAAP and Non-GAAP Results:.
 
 PG*** The following table summarizes our financial results for the second quarter of fiscal 2023:.
 
-PG*** Story continues.
-
-
-TBLST***  .
 Product Revenue in GAAP Second Quarter Fiscal 2023 Results Amount(millions) is $466.3 MN .
 Product Revenue in GAAP Second Quarter Fiscal 2023 Results Year/yeargrowth is 83% .
-TBLET***  .
-
-TBLST***  .
 Product Gross Profit in GAAP Amount(millions) Second Quarter Fiscal 2023 Results is $334.7 MN .
 Product Gross Profit in GAAP Margin Second Quarter Fiscal 2023 Results is 72% .
 Product Gross Profit in Non-GAAP Amount(millions) Second Quarter Fiscal 2023 Results is $350.4 MN .
@@ -54,8 +32,6 @@ Free Cash Flow in Non-GAAP Amount(millions) Second Quarter Fiscal 2023 Results i
 Free Cash Flow in Non-GAAP Margin Second Quarter Fiscal 2023 Results is 11% .
 Adjusted Free Cash Flow in Non-GAAP Amount(millions) Second Quarter Fiscal 2023 Results is $58.6 MN .
 Adjusted Free Cash Flow in Non-GAAP Margin Second Quarter Fiscal 2023 Results is 12% .
-TBLET***  .
-
 
 
 SCG*** Financial Outlook:.
@@ -64,33 +40,20 @@ PG*** Our guidance includes GAAP and non-GAAP financial measures.
 
 GQ*** The following table summarizes our guidance for the third quarter of fiscal 2023:.
 
-
-TBLST***  .
 Product Revenue in GAAP Third Quarter Fiscal 2023 Guidance Amount(millions) is $500 - $505 MN .
 Product Revenue in GAAP Third Quarter Fiscal 2023 Guidance Year/yeargrowth is 60% - 62% .
-TBLET***  .
-
-TBLST***  .
 Operating Income in Non-GAAP Margin Third Quarter Fiscal 2023 Guidance is 2% .
-Weighted-average Shares Used In Computing Net Income Per Share Attributable To Common Stockholders - Diluted in Non-GAAP Third Quarter Fiscal 2023 Guidance is 358 .
-TBLET***  .
+Weighted-average Shares Used In Computing Net Income Per Share Attributable To Common Stockholders - Diluted in Non-GAAP Third Quarter Fiscal 2023 Guidance is 358 MN .
 
 
 GF*** The following table summarizes our guidance for the full-year fiscal 2023:.
 
-
-TBLST***  .
 Product Revenue in GAAP Full-year Fiscal 2023 Guidance Amount(millions) is $1905 - $1915 MN .
 Product Revenue in GAAP Full-year Fiscal 2023 Guidance Year/yeargrowth is 67% - 68% .
-TBLET***  .
-
-TBLST***  .
 Product Gross Profit in Non-GAAP Margin Full-year Fiscal 2023 Guidance is 75% .
 Operating Income in Non-GAAP Margin Full-year Fiscal 2023 Guidance is 2% .
 Adjusted Free Cash Flow in Non-GAAP Margin Full-year Fiscal 2023 Guidance is 17% .
-Weighted-average Shares Used In Computing Net Income Per Share Attributable To Common Stockholders - Diluted in Non-GAAP Full-year Fiscal 2023 Guidance is 358 .
-TBLET***  .
+Weighted-average Shares Used In Computing Net Income Per Share Attributable To Common Stockholders - Diluted in Non-GAAP Full-year Fiscal 2023 Guidance is 358 MN .
 
 
 PG*** A reconciliation of non-GAAP guidance measures to corresponding GAAP guidance measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, expenses that may be incurred in the future. Stock-based compensation-related charges, including employer payroll tax-related items on employee stock transactions, are impacted by the timing of employee stock transactions, the future fair market value of our common stock, and our future hiring and retention needs, all of which are difficult to predict and subject to constant change. We have provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for our historical non-GAAP financial results included in this release. Our fiscal year ends January 31, and numbers are rounded for presentation purposes.
-
