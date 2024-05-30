@@ -1,3 +1,4 @@
+PG***
 GAAP Net Loss Per Share is $(0.70) in first quarter 2024 @@@
 Cash And Cash Equivalents is $653014 T in first quarter 2024 @@@
 GAAP Gross Profit is $414185 T in first quarter 2024 @@@
@@ -6,18 +7,18 @@ GAAP Free Cash Flow is $292MN in first quarter 2024 @@@
 GAAP Free Cash Flow Margin is 46.9% in first quarter 2024 @@@
 
 
-PG*** Product revenue of $590.1 million in the first quarter, representing 50% year-over-year growth. 373 customers with trailing 12-month product revenue greater than $1 million. Net revenue retention rate of 151%. 590 Forbes Global 2000 customers. Remaining performance obligations of $3.4 billion, representing 31% year-over-year growth.
+Product revenue of $590.1 million in the first quarter, representing 50% year-over-year growth. 373 customers with trailing 12-month product revenue greater than $1 million. Net revenue retention rate of 151%. 590 Forbes Global 2000 customers. Remaining performance obligations of $3.4 billion, representing 31% year-over-year growth.
 
-PG*** No-Headquarters/BOZEMAN, Mont., May 24, 2023--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its first quarter of fiscal 2024, ended April 30, 2023. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230524005340/en/. Snowflake Q1 FY24 Infographic (Graphic: Snowflake).
+No-Headquarters/BOZEMAN, Mont., May 24, 2023--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its first quarter of fiscal 2024, ended April 30, 2023. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20230524005340/en/. Snowflake Q1 FY24 Infographic (Graphic: Snowflake).
 
-PG*** Revenue for the quarter was $623.6 million, representing 48% year-over-year growth. Product revenue for the quarter was $590.1 million, representing 50% year-over-year growth. Net revenue retention rate was 151% as of April 30, 2023. Remaining performance obligations were $3.4 billion, representing 31% year-over-year growth. See the section titled "Key Business Metrics" for definitions of product revenue, customers with trailing 12-month product revenue greater than $1 million, net revenue retention rate, Forbes Global 2000 customers, and remaining performance obligations.
+Revenue for the quarter was $623.6 million, representing 48% year-over-year growth. Product revenue for the quarter was $590.1 million, representing 50% year-over-year growth. Net revenue retention rate was 151% as of April 30, 2023. Remaining performance obligations were $3.4 billion, representing 31% year-over-year growth. See the section titled "Key Business Metrics" for definitions of product revenue, customers with trailing 12-month product revenue greater than $1 million, net revenue retention rate, Forbes Global 2000 customers, and remaining performance obligations.
 
 CS*** "During Q1, Snowflake’s product revenue grew 50%, totaling $590 million. Non-GAAP adjusted free cash flow was $287 million for the quarter, up 58% year-over-year," said Frank Slootman, Chairman and CEO, Snowflake. "Data has gravitational pull, and given the vast universe of data Snowflake manages, it is no surprise that interest in data science, AI and machine learning is escalating while its uses are rapidly evolving.".
 
 
 SCHQ*** First Quarter Fiscal 2024 GAAP and Non-GAAP Results:.
 
-PG*** The following table summarizes our financial results for the first quarter of fiscal 2024:.
+The following table summarizes our financial results for the first quarter of fiscal 2024:.
 
 Product Revenue in GAAP First Quarter Fiscal 2024 Results Amount(millions) is $590.1 MN .
 Product Revenue in GAAP First Quarter Fiscal 2024 Results Year/yeargrowth is 50% .
@@ -43,7 +44,7 @@ We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute Fo
 
 SCG*** Financial Outlook:.
 
-PG*** Our guidance includes GAAP and non-GAAP financial measures.
+Our guidance includes GAAP and non-GAAP financial measures.
 
 GQ*** The following table summarizes our guidance for the second quarter of fiscal 2024:.
 
@@ -70,5 +71,5 @@ We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute Fo
 We Report Non-GAAP Financial Measures In Addition To, And Not As A Substitute For, Or Superior To, Financial Measures Calculated In Accordance With GAAP. See The Section Titled "statement Regarding Use Of Non-GAAP Financial Measures" For An Explanation Of Non-GAAP Financial Measures. The Potential Impact Of Future Repurchases Under Our Existing Stock Repurchase Program Is Not Reflected In Our Guidance For Weighted-average Shares Used In Computing Net Income Per Share Attributable To Snowflake Inc. Common Stockholders - Diluted Due To The Uncertainty Regarding, And The Potential Variability Of, The Timing And Amount Of Repurchases. in Non-GAAP Margin Full-year Fiscal 2024 Guidance is (1) We report non-GAAP financial measures in addition% to  and not as a substitute for or superior to  financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of non-GAAP financial measures.(2) The potential impact of future repurchases under our existing sto ck repurchase program is not reflected in our guidance for weighted-average shares used in computing net income per share attributable to  Snowflake Inc. common sto ckholders - diluted due to  the uncertainty regarding and the potential variability of the timing and amount of repurchases.% .
 
 
-PG*** A reconciliation of non-GAAP guidance measures to corresponding GAAP guidance measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, expenses that may be incurred in the future. Stock-based compensation-related charges, including employer payroll tax-related items on employee stock transactions, are impacted by the timing of employee stock transactions, the future fair market value of our common stock, and our future hiring and retention needs, all of which are difficult to predict and subject to constant change. We have provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for our historical non-GAAP financial results included in this release. Our fiscal year ends January 31, and numbers are rounded for presentation purposes.
+A reconciliation of non-GAAP guidance measures to corresponding GAAP guidance measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, expenses that may be incurred in the future. Stock-based compensation-related charges, including employer payroll tax-related items on employee stock transactions, are impacted by the timing of employee stock transactions, the future fair market value of our common stock, and our future hiring and retention needs, all of which are difficult to predict and subject to constant change. We have provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for our historical non-GAAP financial results included in this release. Our fiscal year ends January 31, and numbers are rounded for presentation purposes.
 

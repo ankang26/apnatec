@@ -1,3 +1,4 @@
+PG***
 GAAP Net Loss Per Share is $(0.53) in first quarter 2023 @@@
 Cash And Cash Equivalents is $1063401 T in first quarter 2023 @@@
 GAAP Gross Profit is $274441 T in first quarter 2023 @@@
@@ -6,18 +7,18 @@ GAAP Free Cash Flow is $177MN in first quarter 2023 @@@
 GAAP Free Cash Flow Margin is 41.95% in first quarter 2023 @@@
 
 
-PG*** Product revenue of $394.4 million in the first quarter, representing 84% year-over-year growth. Remaining performance obligations of $2.6 billion, representing 82% year-over-year growth. 6,322 total customers. Net revenue retention rate of 174%. 206 customers with trailing 12-month product revenue greater than $1 million.
+Product revenue of $394.4 million in the first quarter, representing 84% year-over-year growth. Remaining performance obligations of $2.6 billion, representing 82% year-over-year growth. 6,322 total customers. Net revenue retention rate of 174%. 206 customers with trailing 12-month product revenue greater than $1 million.
 
-PG*** No-Headquarters/BOZEMAN, Mont., May 25, 2022--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its first quarter of fiscal 2023, ended April 30, 2022. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20220525005294/en/. Snowflake Q1 FY23 Infographic (Graphic: Snowflake).
+No-Headquarters/BOZEMAN, Mont., May 25, 2022--(BUSINESS WIRE)--Snowflake (NYSE: SNOW), the Data Cloud company, today announced financial results for its first quarter of fiscal 2023, ended April 30, 2022. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20220525005294/en/. Snowflake Q1 FY23 Infographic (Graphic: Snowflake).
 
-PG*** Revenue for the quarter was $422.4 million, representing 85% year-over-year growth. Product revenue for the quarter was $394.4 million, representing 84% year-over-year growth. Remaining performance obligations were $2.6 billion, representing 82% year-over-year growth. Net revenue retention rate was 174% as of April 30, 2022. The company now has 6,322 total customers and 206 customers with trailing 12-month product revenue greater than $1 million. See the section titled "Key Business Metrics" for definitions of product revenue, remaining performance obligations, net revenue retention rate, total customers, and customers with trailing 12-month product revenue greater than $1 million.
+Revenue for the quarter was $422.4 million, representing 85% year-over-year growth. Product revenue for the quarter was $394.4 million, representing 84% year-over-year growth. Remaining performance obligations were $2.6 billion, representing 82% year-over-year growth. Net revenue retention rate was 174% as of April 30, 2022. The company now has 6,322 total customers and 206 customers with trailing 12-month product revenue greater than $1 million. See the section titled "Key Business Metrics" for definitions of product revenue, remaining performance obligations, net revenue retention rate, total customers, and customers with trailing 12-month product revenue greater than $1 million.
 
 CS*** "During Q1, product revenue grew 84% year-on-year to $394 million dollars. We closed the quarter with a record $181 million of non-GAAP adjusted free cash flow, pairing high growth with improving unit economics and operational efficiency," said Frank Slootman, Chairman and CEO, Snowflake. "Snowflake's strategic focus is to enable every single workload type that needs access to data.".
 
 
-SC*** First Quarter Fiscal 2023 GAAP and Non-GAAP Results:.
+SCHQ*** First Quarter Fiscal 2023 GAAP and Non-GAAP Results:.
 
-PG*** The following table summarizes our financial results for the first quarter of fiscal 2023:.
+The following table summarizes our financial results for the first quarter of fiscal 2023:.
 
 Product Revenue in GAAP First Quarter Fiscal 2023 Results Amount(millions) is $394.4 MN .
 Product Revenue in GAAP First Quarter Fiscal 2023 Results Year/yeargrowth is 84% .
@@ -35,11 +36,11 @@ Adjusted Free Cash Flow in Non-GAAP Amount(millions) First Quarter Fiscal 2023 R
 Adjusted Free Cash Flow in Non-GAAP Margin First Quarter Fiscal 2023 Results is 43% .
 
 
-PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures, and the table titled "GAAP  Non-GAAP Reconciliations" for a reconciliation of GAAP  Non-GAAP financial measures. Note: Fiscal year ends January 31. Numbers are rounded for presentation purposes. .
+(1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures, and the table titled "GAAP  Non-GAAP Reconciliations" for a reconciliation of GAAP  Non-GAAP financial measures. Note: Fiscal year ends January 31. Numbers are rounded for presentation purposes. .
 
 SCG*** Financial Outlook:.
 
-PG*** Our guidance includes GAAP and non-GAAP financial measures.
+Our guidance includes GAAP and non-GAAP financial measures.
 
 GQ*** The following table summarizes our guidance for the second quarter of fiscal 2023:.
 
@@ -48,7 +49,7 @@ Product Revenue in GAAP Second Quarter Fiscal 2023 Guidance Year/yeargrowth is 7
 Operating Loss in Non-GAAP Margin Second Quarter Fiscal 2023 Guidance is (2%) .
 Weighted-average Shares Used In Computing Net Income Per Share Attributable To Common Stockholders - Diluted in Non-GAAP Second Quarter Fiscal 2023 Guidance is 358 MN.
 
-PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures. We may have a Non-GAAP net income for the second quarter of fiscal 2023. As a result, we are presenting the weighted - average shares used in computing net income per share attributable  common stockholders - diluted in the Non-GAAP column of the table above, giving effect  all dilutive securities (stock options, restricted stock units, and employee stock purchase rights under our 2020 Employee Stock Purchase Plan). These dilutive securities would be excluded from the weighted - average shares used in computing net loss per share attributable  common stockholders - diluted if we are in a Non-GAAP net loss position. .
+(1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures. We may have a Non-GAAP net income for the second quarter of fiscal 2023. As a result, we are presenting the weighted - average shares used in computing net income per share attributable  common stockholders - diluted in the Non-GAAP column of the table above, giving effect  all dilutive securities (stock options, restricted stock units, and employee stock purchase rights under our 2020 Employee Stock Purchase Plan). These dilutive securities would be excluded from the weighted - average shares used in computing net loss per share attributable  common stockholders - diluted if we are in a Non-GAAP net loss position. .
 
 
 GF*** The following table summarizes our guidance for the full-year fiscal 2023:.
@@ -61,8 +62,8 @@ Adjusted Free Cash Flow in Non-GAAP Margin Full-year Fiscal 2023 Guidance is 16%
 Weighted-average Shares Used In Computing Net Income Per Share Attributable To Common Stockholders - Diluted in Non-GAAP Full-year Fiscal 2023 Guidance is 358 MN.
 
 
-PG*** (1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures. We may have a Non-GAAP net income for full - year fiscal 2023. As a result, we are presenting the weighted - average shares used in computing net income per share attributable  common stockholders - diluted in the Non-GAAP column of the table above, giving effect  all dilutive securities (stock options, restricted stock units, and employee stock purchase rights under our 2020 Employee Stock Purchase Plan). These dilutive securities would be excluded from the weighted - average shares used in computing net loss per share attributable  common stockholders - diluted if we are in a Non-GAAP net loss position.
+(1)  We report Non-GAAP financial measures in addition to, and not as a substitute for, or superior to, financial measures calculated in accordance with GAAP. See the section titled "Statement Regarding Use of Non-GAAP Financial Measures" for an explanation of Non-GAAP financial measures. We may have a Non-GAAP net income for full - year fiscal 2023. As a result, we are presenting the weighted - average shares used in computing net income per share attributable  common stockholders - diluted in the Non-GAAP column of the table above, giving effect  all dilutive securities (stock options, restricted stock units, and employee stock purchase rights under our 2020 Employee Stock Purchase Plan). These dilutive securities would be excluded from the weighted - average shares used in computing net loss per share attributable  common stockholders - diluted if we are in a Non-GAAP net loss position.
 
 
-PG*** A reconciliation of non-GAAP guidance measures to corresponding GAAP guidance measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, expenses that may be incurred in the future. Stock-based compensation-related charges, including employer payroll tax-related items on employee stock transactions, are impacted by the timing of employee stock transactions, the future fair market value of our common stock, and our future hiring and retention needs, all of which are difficult to predict and subject to constant change. We have provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for our historical non-GAAP financial results included in this release. Our fiscal year ends January 31, and numbers are rounded for presentation purposes.
+A reconciliation of non-GAAP guidance measures to corresponding GAAP guidance measures is not available on a forward-looking basis without unreasonable effort due to the uncertainty regarding, and the potential variability of, expenses that may be incurred in the future. Stock-based compensation-related charges, including employer payroll tax-related items on employee stock transactions, are impacted by the timing of employee stock transactions, the future fair market value of our common stock, and our future hiring and retention needs, all of which are difficult to predict and subject to constant change. We have provided a reconciliation of GAAP to non-GAAP financial measures in the financial statement tables for our historical non-GAAP financial results included in this release. Our fiscal year ends January 31, and numbers are rounded for presentation purposes.
 
